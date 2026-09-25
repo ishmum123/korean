@@ -1,0 +1,4 @@
+# Shared builder deps (spacy, wordfreq, simplemma), pinned in vocab-engine:
+-r ../engine/tools/packbuilder/requirements.txt
+# spaCy Korean model (CC BY-SA 4.0; build time only)
+ko_core_news_sm @ https://github.com/explosion/spacy-models/releases/download/ko_core_news_sm-3.8.0/ko_core_news_sm-3.8.0-py3-none-any.whl

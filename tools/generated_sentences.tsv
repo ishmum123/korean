@@ -1,0 +1,1886 @@
+# Sentences written for this pack (src "gen"): word<TAB>Korean<TAB>English. Polite style (해요체/합쇼체).
+# Each covers a word Tatoeba shows in fewer than 2 usable sentences.
+오:num	회의는 오 분 후에 시작해요.	The meeting starts in five minutes.
+오:num	우리 집은 오 층에 있어요.	Our home is on the fifth floor.
+삼:num	저는 한국에서 삼 년 살았어요.	I lived in Korea for three years.
+삼:num	화장실은 삼 층에 있어요.	The bathroom is on the third floor.
+백:num	학교에 학생이 백 명 있어요.	There are a hundred students at the school.
+백:num	우리 할머니는 백 살이에요.	My grandmother is a hundred years old.
+구:num	버스가 구 분 후에 와요.	The bus comes in nine minutes.
+구:num	저는 구 층에 살아요.	I live on the ninth floor.
+칠:num	지하철로 칠 분 걸려요.	It takes seven minutes by subway.
+사:num	제 방은 사 층에 있어요.	My room is on the fourth floor.
+사:num	사 년 동안 한국어를 공부했어요.	I studied Korean for four years.
+십:num	십 분만 기다려 주세요.	Please wait just ten minutes.
+십:num	십 년 전에 여기에 왔어요.	I came here ten years ago.
+육:num	육 년 동안 이 회사에서 일했어요.	I worked at this company for six years.
+육:num	우리 집은 육 층에 있어요.	Our home is on the sixth floor.
+팔:num	팔 분 후에 기차가 떠나요.	The train leaves in eight minutes.
+팔:num	우리 아이는 팔 년 전에 태어났어요.	Our child was born eight years ago.
+천:num	이 빵은 천 원이에요.	This bread is a thousand won.
+천:num	사과 하나에 천 원이에요.	One apple is a thousand won.
+만:num	이 책은 만 원이에요.	This book is ten thousand won.
+만:num	가방이 만 원이에요? 정말 싸요.	The bag is ten thousand won? That's really cheap.
+영:num	시험에서 영 점을 받았어요.	I got zero points on the test.
+영:num	제 점수는 영 점이에요.	My score is zero.
+다섯	사과 다섯 개 주세요.	Five apples, please.
+다섯	우리 가족은 다섯 명이에요.	There are five people in our family.
+아홉	아홉 시에 학교에 가요.	I go to school at nine o'clock.
+아홉	동생은 아홉 살이에요.	My younger sibling is nine years old.
+여섯	여섯 시에 저녁을 먹어요.	I eat dinner at six o'clock.
+여섯	집에 고양이 여섯 마리가 있어요.	There are six cats at home.
+여덟	아침 여덟 시에 일어나요.	I get up at eight in the morning.
+일곱	일곱 시에 친구를 만나요.	I meet a friend at seven o'clock.
+일월	일월은 아주 추워요.	January is very cold.
+일월	일월에 한국에 갈 거예요.	I'm going to Korea in January.
+이월	이월에 눈이 많이 와요.	It snows a lot in February.
+이월	제 생일은 이월이에요.	My birthday is in February.
+삼월	삼월에 학교가 시작해요.	School starts in March.
+삼월	삼월에는 날씨가 따뜻해요.	The weather is warm in March.
+사월	사월에 꽃이 많이 피어요.	Many flowers bloom in April.
+사월	사월에 친구가 결혼해요.	My friend is getting married in April.
+오월	오월은 날씨가 좋아요.	The weather is nice in May.
+오월	오월에 가족과 여행을 갈 거예요.	I'm going on a trip with my family in May.
+유월	유월에 비가 많이 와요.	It rains a lot in June.
+유월	유월에 시험이 있어요.	There's an exam in June.
+칠월	칠월은 정말 더워요.	July is really hot.
+칠월	칠월에 바다에 가고 싶어요.	I want to go to the sea in July.
+팔월	팔월에 휴가가 있어요.	I have a vacation in August.
+팔월	팔월에는 바다에 사람이 많아요.	There are a lot of people at the sea in August.
+구월	구월에 학교에 다시 가요.	I go back to school in September.
+구월	제 생일은 구월이에요.	My birthday is in September.
+시월	시월에 가을이 와요.	Autumn comes in October.
+시월	시월에 이사를 했어요.	I moved house in October.
+십일월	십일월은 조금 추워요.	November is a little cold.
+십일월	십일월에 회의가 있어요.	There's a meeting in November.
+십이월	십이월에 눈이 와요.	It snows in December.
+십이월	십이월에 가족을 만나요.	I see my family in December.
+날	오늘은 정말 좋은 날이에요.	Today is a really good day.
+날	비가 오는 날에는 집에 있어요.	On rainy days I stay home.
+안녕하세요	안녕하세요, 만나서 반갑습니다.	Hello, nice to meet you.
+만나서 반갑습니다	선생님, 만나서 반갑습니다.	Nice to meet you, teacher.
+안녕히 가세요	안녕히 가세요, 내일 또 만나요.	Goodbye, see you again tomorrow.
+안녕히 가세요	선생님, 안녕히 가세요.	Goodbye, teacher.
+안녕히 계세요	안녕히 계세요. 내일 또 오겠습니다.	Goodbye. I'll come again tomorrow.
+안녕히 계세요	할머니, 안녕히 계세요.	Goodbye, Grandma.
+여보세요	여보세요, 거기 누구세요?	Hello? Who is this?
+여보세요	여보세요, 지금 어디에 있어요?	Hello? Where are you now?
+미안합니다	늦어서 정말 미안합니다.	I'm really sorry I'm late.
+미안합니다	미안합니다, 다시 말해 주세요.	I'm sorry, please say it again.
+고맙습니다	정말 고맙습니다, 선생님.	Thank you so much, teacher.
+아니요	아니요, 저는 학생이 아니에요.	No, I'm not a student.
+아니요	아니요, 저는 커피를 안 마셔요.	No, I don't drink coffee.
+입	입을 크게 여세요.	Please open your mouth wide.
+그리고	저는 빵을 먹었어요. 그리고 우유를 마셨어요.	I ate bread. And I drank milk.
+물론	물론 저도 같이 갈 거예요.	Of course I'll go with you too.
+바람	오늘은 바람이 많이 불어요.	It's very windy today.
+바람	밤에 바람이 강하게 불었어요.	The wind blew hard at night.
+장	종이 한 장 주세요.	Please give me a sheet of paper.
+장	사진 두 장을 찍었어요.	I took two photos.
+그런데	이 옷이 예뻐요. 그런데 너무 비싸요.	These clothes are pretty. But they're too expensive.
+그런데	그런데 오늘 무슨 요일이에요?	By the way, what day is it today?
+물건	이 가게에는 좋은 물건이 많아요.	This shop has a lot of good things.
+물건	제 물건을 가방에 넣었어요.	I put my things in the bag.
+맛	이 음식은 맛이 좋아요.	This food tastes good.
+생활	한국 생활이 재미있어요.	Life in Korea is fun.
+시작	시작이 제일 어려워요.	The beginning is the hardest part.
+카드	카드로 계산해도 돼요?	Can I pay by card?
+건물	저 건물이 우리 회사예요.	That building is our company.
+따뜻하다	오늘은 날씨가 따뜻해요.	The weather is warm today.
+언제나	어머니는 언제나 바빠요.	My mother is always busy.
+부모	저는 부모와 같이 살아요.	I live with my parents.
+오른쪽	화장실은 오른쪽에 있어요.	The bathroom is on the right.
+장소	여기는 조용한 장소예요.	This is a quiet place.
+장소	만날 장소를 정했어요?	Did you decide on a place to meet?
+주인	이 가게 주인은 친절해요.	The owner of this shop is kind.
+시장	시장에서 과일을 샀어요.	I bought fruit at the market.
+낮	낮에는 덥고 밤에는 추워요.	It's hot during the day and cold at night.
+화요일	화요일에 영어 수업이 있어요.	I have an English class on Tuesday.
+노란색	저는 노란색을 좋아해요.	I like yellow.
+모레	모레 친구가 한국에 와요.	My friend comes to Korea the day after tomorrow.
+모레	모레는 토요일이라서 학교에 안 가요.	The day after tomorrow is Saturday, so I'm not going to school.
+-밖에	저는 동생이 하나밖에 없어요.	I have only one younger sibling.
+왕	옛날에 이 나라에 착한 왕이 살았어요.	Long ago a kind king lived in this country.
+의하다	뉴스에 의하면 내일 비가 와요.	According to the news, it will rain tomorrow.
+의하다	선생님 말씀에 의하면 시험이 어렵지 않아요.	According to the teacher, the exam isn't hard.
+첫	오늘은 학교에 가는 첫 날이에요.	Today is my first day of school.
+첫	첫 수업은 아홉 시에 시작해요.	The first class starts at nine o'clock.
+부분	이 부분을 다시 읽어 주세요.	Please read this part again.
+사고	어제 도로에서 큰 사고가 있었어요.	There was a big accident on the road yesterday.
+성	이 성은 아주 오래됐어요.	This castle is very old.
+성	왕은 큰 성에서 살았어요.	The king lived in a big castle.
+넘다	벌써 열 시가 넘었어요.	It's already past ten o'clock.
+군	그는 군에서 이 년 동안 일했어요.	He worked in the army for two years.
+군	우리 형은 지금 군에 있어요.	My older brother is in the army now.
+경기	내일 축구 경기를 보러 갈 거예요.	I'm going to watch a football match tomorrow.
+등	시장에서 사과, 바나나, 오렌지 등을 샀어요.	I bought apples, bananas, oranges and so on at the market.
+등	어제부터 등이 너무 아파요.	My back has hurt a lot since yesterday.
+또한	그는 의사예요. 또한 좋은 아버지예요.	He is a doctor. He is also a good father.
+또한	이 식당은 싸요. 또한 음식도 맛있어요.	This restaurant is cheap. The food is also delicious.
+빌다	생일에 소원을 빌었어요.	I made a wish on my birthday.
+미래	미래에 무엇을 하고 싶어요?	What do you want to do in the future?
+능력	그는 여러 언어를 배우는 능력이 있어요.	He has the ability to learn many languages.
+능력	사람마다 능력이 달라요.	Every person has different abilities.
+녀석	그 녀석은 정말 재미있어요.	That guy is really funny.
+또는	커피 또는 우유를 드릴까요?	Would you like coffee or milk?
+또는	버스 또는 지하철로 갈 수 있어요.	You can go by bus or by subway.
+이용하다	저는 매일 지하철을 이용해요.	I use the subway every day.
+이용하다	도서관을 자주 이용해요?	Do you use the library often?
+확실하다	그 소식이 확실해요?	Is that news certain?
+일부	돈의 일부를 은행에 넣었어요.	I put part of the money in the bank.
+스스로	아이가 스스로 옷을 입었어요.	The child got dressed without help.
+변하다	이 도시는 많이 변했어요.	This city has changed a lot.
+짐	짐이 너무 무거워요.	The luggage is too heavy.
+짐	호텔에 짐을 놓고 나왔어요.	I left my luggage at the hotel and came out.
+도로	이 도로는 항상 차가 많아요.	This road always has a lot of cars.
+역시	역시 엄마 음식이 제일 맛있어요.	As expected, Mom's food is the most delicious.
+역시	저도 역시 그 영화를 좋아해요.	I like that movie too.
+사회	우리 사회는 빨리 변하고 있어요.	Our society is changing fast.
+사회	학교에서 사회를 공부해요.	I study social studies at school.
+대단하다	혼자 그 일을 다 했어요? 정말 대단해요.	You did all that work alone? That's really amazing.
+대단하다	그 가수의 노래 실력은 대단해요.	That singer's singing ability is amazing.
+박사	그분은 과학 박사예요.	That person has a doctorate in science.
+특히	저는 과일을 좋아해요. 특히 사과를 좋아해요.	I like fruit. I especially like apples.
+발생하다	어젯밤에 큰 문제가 발생했어요.	A big problem happened last night.
+교육	아이들의 교육은 아주 중요해요.	Children's education is very important.
+교육	그는 교육 회사에서 일해요.	He works at an education company.
+검사	병원에서 눈 검사를 받았어요.	I had an eye test at the hospital.
+빛	창문으로 빛이 들어와요.	Light comes in through the window.
+서비스	이 호텔은 서비스가 좋아요.	This hotel has good service.
+분위기	이 식당은 분위기가 좋아요.	This restaurant has a nice atmosphere.
+분위기	파티 분위기가 아주 즐거웠어요.	The mood at the party was very cheerful.
+자연	저는 자연 속에서 쉬는 것을 좋아해요.	I like resting in nature.
+자연	이 섬은 자연이 아름다워요.	This island has beautiful nature.
+나타나다	갑자기 고양이 한 마리가 나타났어요.	Suddenly a cat appeared.
+내용	이 책의 내용이 어려워요.	The content of this book is difficult.
+내용	편지 내용을 읽어 주세요.	Please read me what the letter says.
+집다	바닥에서 돈을 집었어요.	I picked up money from the floor.
+집다	아이가 작은 돌을 집었어요.	The child picked up a small stone.
+관련	이 일과 관련이 있는 자료가 있어요?	Do you have material related to this work?
+관련	그는 음악 관련 일을 해요.	He does music-related work.
+목적	여행의 목적이 뭐예요?	What is the purpose of your trip?
+끌다	아이가 큰 가방을 끌고 가요.	The child is pulling a big bag along.
+소	농장에 소가 많아요.	There are a lot of cows on the farm.
+고객	고객이 가게에 들어왔어요.	A customer came into the shop.
+방향	역은 어느 방향이에요?	Which direction is the station?
+방향	우리는 반대 방향으로 갔어요.	We went in the opposite direction.
+효과	그 약을 먹으면 효과가 좋아요.	That medicine works well if you take it.
+효과	운동은 건강에 효과가 있어요.	Exercise is good for your health.
+조사하다	경찰이 사고를 조사하고 있어요.	The police are investigating the accident.
+조사하다	학생들이 동물에 대해 조사했어요.	The students did research on animals.
+간단하다	이 문제는 아주 간단해요.	This problem is very simple.
+매다	학교에 갈 때 넥타이를 매요.	I wear a tie when I go to school.
+매다	아버지가 넥타이를 매고 있어요.	Father is putting on a tie.
+이사	다음 달에 새 집으로 이사를 가요.	I'm moving to a new house next month.
+데리다	동생을 데리고 공원에 갔어요.	I took my younger sibling to the park.
+데리다	친구를 데리고 파티에 와도 돼요?	Can I bring a friend to the party?
+시민	시민들이 공원에 모였어요.	Citizens gathered in the park.
+당연하다	도와주는 것은 당연해요.	It's only natural to help.
+당연하다	친구가 화가 난 것은 당연해요.	It's natural that my friend got angry.
+기계	이 기계는 어떻게 써요?	How do you use this machine?
+당연히	당연히 저도 같이 가요.	Of course I'm going with you.
+지나가다	버스가 방금 지나갔어요.	The bus just went past.
+지나가다	시간이 빨리 지나가요.	Time passes quickly.
+할머니	할머니는 시골에 사세요.	My grandmother lives in the countryside.
+할머니	주말에 할머니 댁에 가요.	I'm going to my grandmother's house at the weekend.
+직원	이 가게 직원은 아주 친절해요.	The staff at this shop are very kind.
+거래	두 회사가 큰 거래를 했어요.	The two companies made a big deal.
+거래	그 은행과 거래를 하고 있어요.	I do business with that bank.
+얘	얘는 제 동생이에요.	This is my younger sibling.
+얘	얘가 제 가장 친한 친구예요.	This is my best friend.
+돌리다	열쇠를 오른쪽으로 돌려 보세요.	Try turning the key to the right.
+감다	눈을 감고 잠깐 쉬세요.	Close your eyes and rest for a moment.
+대답	아무도 대답을 하지 않았어요.	Nobody answered.
+전체	전체 학생이 교실에 모였어요.	All the students gathered in the classroom.
+전체	이 건물 전체가 우리 회사예요.	This whole building is our company.
+포함하다	이 가격은 아침 식사를 포함해요.	This price includes breakfast.
+프로젝트	이번 프로젝트는 아주 중요해요.	This project is very important.
+공간	방에 공간이 별로 없어요.	There isn't much space in the room.
+꺼내다	가방에서 책을 꺼냈어요.	I took a book out of my bag.
+에너지	아이들은 에너지가 많아요.	Children have a lot of energy.
+에너지	우리는 에너지를 아껴야 해요.	We have to save energy.
+데려가다	아이를 병원에 데려가야 해요.	I have to take my child to the hospital.
+옛날	옛날에 이곳은 작은 마을이었어요.	Long ago this place was a small village.
+시절	학생 시절이 그리워요.	I miss my school days.
+이쪽	손님, 이쪽으로 오세요.	This way, please.
+가져오다	물 좀 가져와 주세요.	Please bring me some water.
+반드시	숙제는 반드시 내일까지 내세요.	Be sure to hand in your homework by tomorrow.
+반드시	반드시 다시 올 거예요.	I will definitely come back.
+속도	기차의 속도가 아주 빨라요.	The train goes very fast.
+부족하다	시간이 조금 부족해요.	Time is a little short.
+덕분	친구 덕분에 시험에 붙었어요.	Thanks to my friend, I passed the exam.
+덕분	선생님 덕분에 한국어를 잘하게 되었어요.	Thanks to my teacher, I became good at Korean.
+개인	이것은 제 개인 물건이에요.	This is my personal item.
+개인	개인 정보를 조심하세요.	Be careful with personal information.
+손가락	손가락을 칼에 베었어요.	I cut my finger on a knife.
+설명	선생님의 설명이 아주 쉬웠어요.	The teacher's explanation was very easy.
+오랜만	정말 오랜만이에요. 잘 지냈어요?	It's been a really long time. How have you been?
+제공하다	호텔에서 아침을 무료로 제공해요.	The hotel provides breakfast for free.
+영원히	이 순간을 영원히 기억할 거예요.	I will remember this moment forever.
+뱀	저는 뱀이 정말 무서워요.	I'm really scared of snakes.
+뱀	산에서 큰 뱀을 봤어요.	I saw a big snake on the mountain.
+활동	학교에서 여러 가지 활동을 해요.	We do various activities at school.
+활동	주말에 친구들과 여러 활동을 해요.	At the weekend I do various activities with friends.
+아까	아까 누가 전화했어요?	Who called a moment ago?
+아까	아까 먹은 빵이 정말 맛있었어요.	The bread I ate earlier was really delicious.
+주변	집 주변에 공원이 있어요.	There's a park near my house.
+주변	학교 주변에 식당이 많아요.	There are a lot of restaurants around the school.
+금지	여기에서는 담배가 금지예요.	Smoking is banned here.
+금지	이 공원에서는 요리가 금지예요.	Cooking is banned in this park.
+자료	회의 자료를 준비했어요.	I prepared the materials for the meeting.
+자료	도서관에서 자료를 찾았어요.	I looked for material at the library.
+영상	친구가 재미있는 영상을 보냈어요.	My friend sent me a funny video.
+영상	이 영상을 벌써 백 번 봤어요.	I've already watched this video a hundred times.
+왼쪽	은행은 왼쪽에 있어요.	The bank is on the left.
+왼쪽	왼쪽 다리가 아파요.	My left leg hurts.
+노력	노력하면 할 수 있어요.	If you make an effort, you can do it.
+주제	오늘 회의의 주제는 뭐예요?	What is the topic of today's meeting?
+주제	이 책의 주제는 사랑이에요.	The theme of this book is love.
+연기	그 배우는 연기를 정말 잘해요.	That actor is really good at acting.
+연기	부엌에서 연기가 나요.	There's smoke coming from the kitchen.
+정하다	여행 날짜를 정했어요?	Have you decided on the date of the trip?
+정하다	우리는 만날 시간을 정했어요.	We decided on a time to meet.
+시대	지금은 인터넷 시대예요.	Now is the age of the internet.
+시대	그 시대 사람들은 가난했어요.	People in that era were poor.
+모양	이 빵은 별 모양이에요.	This bread is shaped like a star.
+모양	구름 모양이 재미있어요.	The shape of the cloud is funny.
+아무리	아무리 바빠도 밥은 먹어야 해요.	No matter how busy you are, you have to eat.
+무릎	넘어져서 무릎을 다쳤어요.	I fell over and hurt my knee.
+남성	이 옷은 남성 옷이에요.	These are men's clothes.
+쓰레기	쓰레기를 밖에 버려 주세요.	Please throw the rubbish out.
+조사	경찰의 조사가 끝났어요.	The police investigation is over.
+조사	학생들이 동물 조사를 했어요.	The students did a survey of animals.
+센터	주말에 쇼핑 센터에 갔어요.	I went to the shopping centre at the weekend.
+국민	대통령은 국민을 위해 일해요.	The president works for the people.
+국민	국민들이 모두 투표를 했어요.	All the citizens voted.
+담다	과일을 상자에 담았어요.	I put the fruit in a box.
+담다	물을 병에 담아 주세요.	Please put the water in a bottle.
+안전	안전이 제일 중요해요.	Safety is the most important thing.
+안전	아이들의 안전을 위해 천천히 운전하세요.	Drive slowly for the children's safety.
+가득	방에 사람이 가득 있어요.	The room is full of people.
+그룹	우리는 세 그룹으로 나눴어요.	We split into three groups.
+왜냐하면	오늘 학교에 안 가요. 왜냐하면 아프기 때문이에요.	I'm not going to school today. That's because I'm sick.
+실력	한국어 실력이 많이 늘었어요.	Your Korean has improved a lot.
+군인	군인들이 나라를 지켜요.	Soldiers protect the country.
+군인	우리 아버지는 군인이었어요.	My father was a soldier.
+군대	형은 작년에 군대에 갔어요.	My older brother joined the army last year.
+스트레스	요즘 일 때문에 스트레스가 많아요.	I've been very stressed because of work lately.
+가만히	가만히 앉아 있어요.	Sit still.
+목	감기 때문에 목이 아파요.	My throat hurts because of a cold.
+조건	이 일의 조건이 좋아요.	The conditions of this job are good.
+조건	조건이 하나 있어요.	There's one condition.
+지옥	아침 지하철은 정말 지옥이에요.	The subway in the morning is real hell.
+및	이름 및 주소를 써 주십시오.	Please write your name and address.
+및	학생 및 선생님이 모두 왔습니다.	Students and teachers all came.
+미국인	제 친구는 미국인이에요.	My friend is American.
+평생	평생 이 도시에서 살았어요.	I have lived in this city my whole life.
+평생	그 날을 평생 잊지 못할 거예요.	I will never forget that day as long as I live.
+사용	이 방은 사용 중이에요.	This room is in use.
+사용	밤에는 휴대폰 사용을 하지 마세요.	Don't use your phone at night.
+토끼	아이가 토끼를 키워요.	The child keeps a rabbit.
+처하다	그는 어려운 상황에 처했어요.	He found himself in a difficult situation.
+진행하다	회의는 한 시간 동안 진행했어요.	The meeting went on for an hour.
+진행하다	프로젝트를 잘 진행하고 있어요.	The project is going well.
+만족하다	저는 제 일에 만족해요.	I'm satisfied with my job.
+반대	엄마는 제 여행을 반대했어요.	My mother was against my trip.
+아가씨	아가씨, 이 가방 얼마예요?	Miss, how much is this bag?
+갈다	컴퓨터 배터리를 새 것으로 갈았어요.	I replaced the computer battery with a new one.
+갈다	커피 콩을 갈았어요.	I ground the coffee beans.
+정의	그는 정의를 위해 싸웠어요.	He fought for justice.
+역할	이 영화에서 무슨 역할을 했어요?	What role did you play in this film?
+역할	엄마의 역할은 아주 중요해요.	A mother's role is very important.
+스타	그 가수는 이제 큰 스타예요.	That singer is a big star now.
+요구하다	손님이 돈을 다시 요구했어요.	The customer asked for the money back.
+손님	오늘 가게에 손님이 많아요.	There are a lot of customers in the shop today.
+손님	주말에 집에 손님이 와요.	We have guests coming to our house at the weekend.
+표현	그 표현은 무슨 뜻이에요?	What does that expression mean?
+대상	이 수업은 어른이 대상이에요.	This class is for adults.
+세우다	여기에 차를 세워도 돼요?	Can I park my car here?
+성인	성인 표 두 장 주세요.	Two adult tickets, please.
+성인	이 영화는 성인만 볼 수 있어요.	Only adults can watch this film.
+보호	자연 보호는 모두의 일이에요.	Protecting nature is everyone's job.
+서류	이 서류에 이름을 써 주세요.	Please write your name on this document.
+서류	책상 위에 서류가 많아요.	There are a lot of documents on the desk.
+자꾸	동생이 자꾸 제 옷을 입어요.	My younger sibling keeps wearing my clothes.
+게다가	날씨가 추워요. 게다가 비도 와요.	The weather is cold. What's more, it's raining.
+게다가	이 집은 커요. 게다가 가격도 싸요.	This house is big. On top of that, it's cheap.
+공장	아버지는 공장에서 일하세요.	My father works in a factory.
+널다	밖에 옷을 널었어요.	I hung the clothes outside.
+금속	이 의자는 금속으로 만들었어요.	This chair is made of metal.
+금속	겨울에는 금속이 아주 차가워요.	Metal gets very cold in winter.
+이거	저기요, 이거 얼마예요?	Excuse me, how much is this?
+다녀오다	저는 방금 학교에 다녀왔어요.	I just got back from school.
+어깨	어깨가 너무 아파요.	My shoulders really hurt.
+구름	오늘은 하늘에 구름이 많아요.	There are a lot of clouds in the sky today.
+감사	도와주셔서 감사를 드려요.	I thank you for your help.
+장기	이 일은 장기 계획이 필요해요.	This work needs a long-term plan.
+장기	할아버지는 장기를 좋아하세요.	Grandfather likes Korean chess.
+교실	교실에 학생이 없어요.	There are no students in the classroom.
+박물관	주말에 박물관에 갔어요.	I went to the museum at the weekend.
+애니메이션	저는 일본 애니메이션을 좋아해요.	I like Japanese animation.
+위원회	위원회에서 그 계획을 정했어요.	The committee decided on that plan.
+위원회	그는 학교 위원회에서 일해요.	He works on the school committee.
+뜨겁다	커피가 너무 뜨거워요.	The coffee is too hot.
+여지	의심의 여지가 없어요.	There is no room for doubt.
+여지	아직 생각할 여지가 있어요.	There's still room to think about it.
+층	우리 사무실은 몇 층이에요?	What floor is our office on?
+닦다	하루에 세 번 이를 닦으세요.	Brush your teeth three times a day.
+북쪽	이 마을의 북쪽에 산이 있어요.	There's a mountain to the north of this village.
+돼지	농장에 돼지가 있어요.	There are pigs on the farm.
+돼지	돼지 고기를 좋아해요?	Do you like pork?
+데이터	휴대폰 데이터가 없어요.	I have no mobile data left.
+종이	종이에 이름을 써 주세요.	Please write your name on the paper.
+종이	종이가 더 필요해요.	I need more paper.
+감염	손을 씻으면 감염을 막을 수 있어요.	Washing your hands can prevent infection.
+열	아이가 열이 나요.	My child has a fever.
+장애	그는 다리에 장애가 있어요.	He has a disability in his leg.
+장애	이 건물에는 장애가 있는 사람을 위한 화장실이 있어요.	This building has a toilet for disabled people.
+간호사	제 언니는 간호사예요.	My older sister is a nurse.
+작동하다	이 기계가 작동하지 않아요.	This machine doesn't work.
+실험실	학생들이 실험실에서 공부해요.	The students are studying in the lab.
+파이	엄마가 사과 파이를 만들었어요.	Mom made an apple pie.
+이론	이론은 쉬운데 실제로는 어려워요.	The theory is easy, but in practice it's hard.
+어른	어른에게는 인사를 잘해야 해요.	You should greet adults properly.
+닭	할머니 집에 닭이 있어요.	There are chickens at my grandmother's house.
+슈퍼	슈퍼에서 우유를 샀어요.	I bought milk at the supermarket.
+슈퍼	집 근처에 슈퍼가 있어요.	There's a supermarket near my house.
+정체	그 사람의 정체를 아무도 몰라요.	Nobody knows who that person really is.
+정체	드디어 그의 정체를 알았어요.	Finally we found out who he really is.
+괴물	아이는 괴물이 무서워요.	The child is scared of monsters.
+괴물	이 영화에는 큰 괴물이 나와요.	A big monster appears in this film.
+유령	저는 유령을 믿지 않아요.	I don't believe in ghosts.
+오렌지	아침에 오렌지를 하나 먹었어요.	I ate an orange in the morning.
+짜다	이 음식은 너무 짜요.	This food is too salty.
+혐의	그는 도둑 혐의를 받고 있어요.	He is suspected of theft.
+혐의	경찰은 그 사람의 혐의를 조사하고 있어요.	The police are looking into that person's charges.
+협상	두 회사가 협상을 시작했어요.	The two companies started negotiations.
+협상	협상은 아주 어려웠어요.	The negotiations were very difficult.
+아이스크림	더워서 아이스크림을 먹었어요.	It was hot, so I ate ice cream.
+그거	그거 제 거예요.	That's mine.
+그거	그거 어디에서 샀어요?	Where did you buy that?
+극장	극장에서 영화를 봤어요.	I watched a film at the cinema.
+휴대폰	휴대폰을 집에 두고 왔어요.	I left my phone at home.
+휴대폰	새 휴대폰을 샀어요.	I bought a new phone.
+부부	그 부부는 행복하게 살아요.	That couple lives happily.
+부부	우리 집 옆에 사는 부부가 아주 친절해요.	The couple who live next to us are very kind.
+불타다	집이 불타고 있어요.	The house is burning.
+남쪽	새들이 남쪽으로 날아가요.	The birds are flying south.
+남쪽	이 도시의 남쪽에 바다가 있어요.	There's a sea to the south of this city.
+국경	기차가 국경을 넘었어요.	The train crossed the border.
+대학교	언니는 대학교에 다녀요.	My older sister goes to university.
+대학교	이 대학교는 아주 유명해요.	This university is very famous.
+산책	저녁에 공원에서 산책을 해요.	I take a walk in the park in the evening.
+지하	우리 사무실은 지하에 있어요.	Our office is underground.
+설마	설마 벌써 다 먹었어요?	Don't tell me you already ate it all?
+손상	사고로 차에 손상이 생겼어요.	The car was damaged in the accident.
+손상	뜨거운 물은 피부에 손상을 줘요.	Hot water damages your skin.
+따위	그런 말 따위는 믿지 않아요.	I don't believe that kind of talk.
+따위	저는 게임 따위에 관심이 없어요.	I'm not interested in games and such.
+리더	그는 우리 팀의 리더예요.	He is the leader of our team.
+리더	좋은 리더는 사람들의 말을 잘 들어요.	A good leader listens well to people.
+똥	공원에 개 똥이 있으니까 조심하세요.	Be careful, there is dog poop in the park.
+똥	아이가 똥을 밟았어요.	The child stepped in poop.
+경찰서	지갑을 잃어버려서 경찰서에 갔어요.	I lost my wallet, so I went to the police station.
+고대	고대 사람들은 별을 보고 길을 찾았어요.	Ancient people found their way by looking at the stars.
+혼란	사고 때문에 도로에 혼란이 생겼어요.	The accident caused chaos on the road.
+혼란	갑자기 계획이 바뀌어서 혼란이 생겼어요.	The plan changed suddenly, so there was confusion.
+노예	옛날에는 노예가 있었어요.	In the old days there were slaves.
+서쪽	해는 서쪽으로 져요.	The sun sets in the west.
+대처	문제에 빨리 대처해야 해요.	We have to deal with the problem quickly.
+지갑	지갑에 돈이 없어요.	There's no money in my wallet.
+지갑	생일 선물로 지갑을 받았어요.	I got a wallet as a birthday present.
+날짜	시험 날짜가 언제예요?	When is the exam date?
+날짜	결혼식 날짜를 정했어요.	We set the wedding date.
+지우다	종이에 쓴 이름을 지워 주세요.	Please erase the name written on the paper.
+딱히	딱히 먹고 싶은 것이 없어요.	There's nothing in particular I want to eat.
+로맨틱하다	이 영화는 정말 로맨틱해요.	This film is really romantic.
+블로그	저는 여행 블로그를 써요.	I write a travel blog.
+블로그	친구의 블로그를 자주 읽어요.	I often read my friend's blog.
+천사	아기가 천사 같아요.	The baby is like an angel.
+천사	그 사람은 정말 천사예요.	That person is a real angel.
+주목	그 가수는 요즘 주목을 많이 받아요.	That singer gets a lot of attention these days.
+주목	모두 여기에 주목을 해 주세요.	Everyone, please pay attention here.
+관	박물관에 오래된 관이 있어요.	There's an old coffin in the museum.
+신나다	내일 여행을 가서 정말 신나요.	I'm really excited because I'm going on a trip tomorrow.
+사고	사고로 다리를 다쳤어요.	I hurt my leg in an accident.
+넘다	사람이 백 명이 넘었어요.	There were more than a hundred people.
+그러나	저는 열심히 공부했어요. 그러나 시험은 어려웠어요.	I studied hard. However, the exam was difficult.
+칼	부엌에서 칼을 조심하세요.	Be careful with the knife in the kitchen.
+감사합니다	도와주셔서 정말 감사합니다.	Thank you so much for your help.
+그래도	비가 와요. 그래도 산책을 갈 거예요.	It's raining. Even so, I'm going for a walk.
+찾아보다	모르는 단어는 사전에서 찾아보세요.	Look up words you don't know in the dictionary.
+이루다	그는 드디어 꿈을 이루었어요.	He finally achieved his dream.
+이전	이전 집은 학교에서 멀었어요.	My previous house was far from school.
+그대로	방을 그대로 두세요.	Leave the room as it is.
+꺼지다	갑자기 불이 꺼졌어요.	Suddenly the lights went out.
+꺼지다	컴퓨터가 혼자 꺼졌어요.	The computer turned itself off.
+포함하다	이 가격은 세금을 포함해요.	This price includes tax.
+손가락	아기의 손가락이 아주 작아요.	The baby's fingers are very small.
+무릎	오래 걸어서 무릎이 아파요.	My knees hurt because I walked a long time.
+바라보다	우리는 함께 바다를 바라봤어요.	We looked out at the sea together.
+노력	많은 노력이 필요해요.	It takes a lot of effort.
+옮기다	이 상자를 방으로 옮겨 주세요.	Please move this box to the room.
+고향	제 고향은 작은 마을이에요.	My hometown is a small village.
+일으키다	그 사람이 문제를 일으켰어요.	That person caused a problem.
+얼다	추워서 물이 얼었어요.	It was cold, so the water froze.
+얼다	겨울에는 강이 얼어요.	The river freezes in winter.
+찾아오다	친구가 갑자기 집에 찾아왔어요.	My friend suddenly came to visit my home.
+찾아오다	학생들이 선생님을 찾아왔어요.	The students came to see the teacher.
+내려가다	저는 지금 일 층으로 내려가요.	I'm going down to the first floor now.
+이거	이거 정말 맛있어요.	This is really delicious.
+놈	어떤 놈이 제 자전거를 가져갔어요.	Some guy took my bicycle.
+사건	그 사건은 어제 저녁 뉴스에 나왔어요.	That incident was on the news yesterday evening.
+대체	대체 어젯밤에 무슨 일이 있었어요?	What on earth happened last night?
+리	그 사람이 거짓말을 했을 리가 없어요.	There's no way that person lied.
+바	제가 말하고 싶은 바는 바로 이거예요.	What I want to say is exactly this.
+바	제가 아는 바로는 그는 아직 학생이에요.	As far as I know, he is still a student.
+신경	다른 사람 말에 너무 신경 쓰지 마세요.	Don't worry too much about what other people say.
+정부	정부가 올해 새 법을 많이 만들었어요.	The government made a lot of new laws this year.
+정부	정부는 국민의 말을 잘 들어야 해요.	The government has to listen carefully to the people.
+망하다	우리 집 앞의 가게는 작년에 망했어요.	The shop in front of our house went out of business last year.
+망하다	어제 본 시험을 완전히 망해서 슬퍼요.	I'm sad because I completely messed up yesterday's exam.
+진심	도와주셔서 진심으로 감사드려요, 정말 고마워요.	I sincerely thank you for your help, I'm really grateful.
+올리다	여행에서 찍은 사진을 인터넷에 올렸어요.	I posted the photos I took on the trip on the internet.
+혹시	혹시 이 근처에 은행이 있어요?	Is there a bank near here, by any chance?
+혹시	혹시 제 휴대폰을 어디에서 봤어요?	Did you happen to see my phone anywhere?
+피하다	비를 피하려고 우리는 건물로 들어갔어요.	We went into the building to get out of the rain.
+피하다	그는 제 질문을 계속 피했어요.	He kept avoiding my question.
+인하다	큰 사고로 인해 길이 한 시간 동안 막혔어요.	The road was blocked for an hour because of a big accident.
+베다	종이를 자르다가 손가락을 조금 베었어요.	I cut my finger a little while cutting paper.
+무기	군인들은 손에 무기를 들고 있었어요.	The soldiers were holding weapons in their hands.
+무기	웃음은 우리가 가진 가장 좋은 무기예요.	Laughter is the best weapon we have.
+출신	제 친구는 작은 섬 출신이에요.	My friend is from a small island.
+출신	우리 선생님은 시골 출신이라서 자연을 좋아해요.	Our teacher is from the countryside, so she likes nature.
+뻔하다	그 영화의 끝은 처음부터 뻔했어요.	The ending of that film was obvious from the start.
+뻔하다	늦게 일어나서 기차를 놓칠 뻔했어요.	I got up late and almost missed the train.
+개다	저는 아침에 일어나서 바로 이불을 개요.	I fold the blanket as soon as I get up in the morning.
+개다	비가 그치고 오후에 하늘이 갰어요.	The rain stopped and the sky cleared up in the afternoon.
+범죄	이 마을에는 범죄가 거의 없어서 안전해요.	There's almost no crime in this village, so it's safe.
+증거	경찰은 아직 그 사람의 증거를 찾지 못했어요.	The police still haven't found evidence against that person.
+문자	수업이 끝나고 친구에게 문자를 보냈어요.	After class I sent a text message to my friend.
+현실	꿈과 현실은 생각보다 많이 달라요.	Dreams and reality are much more different than you think.
+현실	이제 우리는 현실을 받아들여야 해요.	Now we have to accept reality.
+일단	일단 밥부터 먹고 그 이야기를 해요.	Let's eat first and then talk about that.
+존재	그는 신의 존재를 믿지 않는다고 말했어요.	He said he doesn't believe in the existence of God.
+까다	아이가 혼자 바나나를 까서 먹었어요.	The child peeled a banana by himself and ate it.
+까다	저녁을 만들려고 감자를 까고 있어요.	I'm peeling potatoes to make dinner.
+상관	그 문제는 저와 전혀 상관이 없어요.	That problem has nothing at all to do with me.
+인정하다	그는 결국 자기 실수를 인정했어요.	In the end he admitted his mistake.
+과정	결과보다 과정이 더 중요할 때가 있어요.	Sometimes the process is more important than the result.
+알아보다	오랜만에 만났는데 친구가 저를 바로 알아봤어요.	We met after a long time, but my friend recognised me straight away.
+시스템	회사의 컴퓨터 시스템이 오늘 아침에 고장 났어요.	The company's computer system broke down this morning.
+시스템	이 나라의 교육 시스템은 아주 좋아요.	This country's education system is very good.
+심장	운동을 하면 심장이 빨리 뛰어요.	When you exercise, your heart beats fast.
+심장	너무 놀라서 심장이 멈출 뻔했어요.	I was so surprised my heart almost stopped.
+작품	이 그림은 아주 유명한 사람의 작품이에요.	This painting is the work of a very famous person.
+작품	우리는 박물관에서 오래된 작품을 많이 봤어요.	We saw a lot of old works of art at the museum.
+동의하다	저도 선생님의 그 의견에 동의해요.	I agree with that opinion of yours too, teacher.
+도대체	도대체 지금까지 어디에서 뭘 했어요?	What on earth have you been doing until now?
+상관없다	비가 와도 저는 전혀 상관없어요.	It doesn't matter to me at all even if it rains.
+다행	사고가 났지만 아무도 다치지 않아서 다행이에요.	There was an accident, but luckily nobody was hurt.
+다행	늦을까 봐 걱정했는데 시간에 맞게 도착해서 다행이에요.	I was worried I'd be late, so I'm glad we arrived on time.
+권리	모든 사람은 교육을 받을 권리가 있어요.	Everyone has the right to education.
+권리	어린 아이들에게도 똑같은 권리가 있어요.	Young children have the same rights too.
+당시	그 당시 저는 아직 학생이었어요.	At that time I was still a student.
+당시	그 당시에는 휴대폰이 거의 없었어요.	At that time there were hardly any mobile phones.
+현장	경찰이 사고 현장에 빨리 도착했어요.	The police arrived quickly at the scene of the accident.
+보호하다	엄마는 언제나 아이를 보호하려고 해요.	A mother always tries to protect her child.
+공격	우리 팀은 오늘 경기에서 공격을 잘했어요.	Our team attacked well in today's match.
+공격	적의 공격은 밤에 갑자기 시작되었어요.	The enemy's attack began suddenly at night.
+공격하다	개가 공원에서 갑자기 사람을 공격했어요.	A dog suddenly attacked a person in the park.
+데이트	주말에 여자 친구와 공원에서 데이트를 했어요.	At the weekend I went on a date with my girlfriend in the park.
+목숨	그는 목숨을 걸고 물에 빠진 아이를 구했어요.	He risked his life to save a child who had fallen into the water.
+구조	이 집의 구조는 아주 특별해요.	The layout of this house is very special.
+구조	산에서 길을 잃은 사람들이 구조를 기다리고 있어요.	People lost on the mountain are waiting to be rescued.
+녹다	날씨가 따뜻해서 눈이 다 녹았어요.	The weather was warm, so all the snow melted.
+녹다	아이스크림을 밖에 두어서 다 녹았어요.	I left the ice cream outside, so it all melted.
+위대하다	그는 우리 역사에서 가장 위대한 왕이었어요.	He was the greatest king in our history.
+위대하다	어머니의 사랑은 정말 위대하다고 생각해요.	I think a mother's love is truly great.
+때리다	다른 사람을 때리면 절대 안 돼요.	You must never hit other people.
+때리다	밤새 비가 창문을 세게 때렸어요.	The rain beat hard against the window all night.
+무대	그 가수가 무대에 올라가자 모두 소리를 질렀어요.	When that singer went up on stage, everyone screamed.
+작업	이 작업은 시간이 아주 오래 걸려요.	This work takes a very long time.
+작업	저는 요즘 컴퓨터로 작업을 하고 있어요.	These days I'm working on the computer.
+살인	경찰이 그 살인 사건을 조사하고 있어요.	The police are investigating that murder case.
+살인	그 영화는 오래된 살인 사건에 관한 이야기예요.	That film is a story about an old murder case.
+코드	이 프로그램의 코드는 너무 복잡해요.	The code of this program is too complicated.
+영혼	그는 음악을 머리가 아니라 영혼으로 느껴요.	He feels music with his soul, not his head.
+영혼	많은 사람들이 죽은 후에도 영혼이 있다고 믿어요.	Many people believe that the soul remains after death.
+반응	새 노래에 대한 사람들의 반응이 아주 좋았어요.	People's reaction to the new song was very good.
+살아남다	큰 사고였지만 그 사고에서 모두 살아남았어요.	It was a big accident, but everyone survived it.
+트럭	큰 트럭이 우리 집 앞에 섰어요.	A big truck stopped in front of our house.
+트럭	우리 아버지는 매일 트럭을 운전하세요.	My father drives a truck every day.
+임무	우리의 임무는 아이들을 안전하게 지키는 것이에요.	Our duty is to keep the children safe.
+임무	그는 어려운 임무를 끝까지 잘 마쳤어요.	He completed the difficult mission to the end.
+인류	인류의 역사는 생각보다 아주 길어요.	The history of humankind is much longer than you think.
+인류	이 새로운 기술은 인류에게 큰 도움이 될 거예요.	This new technology will be a great help to humankind.
+본인	이 서류는 본인이 직접 은행에 내야 해요.	You have to hand this document in to the bank in person.
+본인	여기에 본인의 이름과 주소를 쓰세요.	Write your own name and address here.
+마약	마약은 몸과 정신에 아주 나빠요.	Drugs are very bad for body and mind.
+이동하다	우리는 버스를 타고 다른 도시로 이동했어요.	We took a bus and moved to another city.
+원인	경찰은 사고의 원인을 아직 몰라요.	The police still don't know the cause of the accident.
+거대하다	깊은 바다에는 거대한 물고기가 살아요.	Huge fish live in the deep sea.
+거대하다	그 도시에는 아주 거대한 건물이 많아요.	That city has a lot of really huge buildings.
+의식	그는 사고 후에 한 시간 동안 의식을 잃었어요.	He lost consciousness for an hour after the accident.
+의식	두 사람의 결혼 의식은 작은 교회에서 있었어요.	The couple's wedding ceremony was held in a small church.
+최악	오늘은 제 인생에서 최악의 날이에요.	Today is the worst day of my life.
+최악	여행 첫 날 날씨가 정말 최악이었어요.	The weather on the first day of the trip was really the worst.
+실험	학생들이 실험실에서 과학 실험을 했어요.	The students did a science experiment in the lab.
+실험	그 실험은 여러 번 했지만 결국 실패했어요.	We did that experiment many times, but it failed in the end.
+결코	저는 결코 이 꿈을 포기하지 않을 거예요.	I will never give up this dream.
+지원	이 일을 하려면 정부의 지원이 꼭 필요해요.	To do this work we really need government support.
+지원	저는 회사에서 교육 지원을 받아서 공부해요.	I get education support from my company and study.
+기능	이 휴대폰에는 좋은 기능이 아주 많아요.	This phone has a lot of good features.
+기능	이 기계의 이 버튼은 무슨 기능을 해요?	What does this button on this machine do?
+생명	모든 생명은 다 아주 중요해요.	All life is very important.
+비다	냉장고가 완전히 비어서 시장에 가야 해요.	The refrigerator is completely empty, so I have to go to the market.
+비다	수업이 끝나서 지금 교실이 비어 있어요.	Class is over, so the classroom is empty now.
+클럽	저는 올해 학교 축구 클럽에 들어갔어요.	I joined the school football club this year.
+클럽	주말에 친구들과 같이 클럽에 가서 춤을 췄어요.	At the weekend I went to a club with friends and danced.
+온	오늘 저녁에는 온 가족이 함께 밥을 먹었어요.	Tonight the whole family ate together.
+온	밤새 눈이 와서 온 세상이 하얘요.	It snowed all night, so the whole world is white.
+새다	어제 밤을 새서 오늘 너무 피곤해요.	I stayed up all night yesterday, so I'm very tired today.
+수준	이 책은 제 한국어 수준에 딱 맞아요.	This book is just right for my Korean level.
+수준	그 학교는 교육 수준이 아주 높아요.	That school has a very high standard of education.
+공장	이 큰 공장에서 매일 자동차를 만들어요.	They make cars every day in this big factory.
+공장	저 공장에서 검은 연기가 많이 나와요.	A lot of black smoke comes out of that factory.
+마침내	오랫동안 걸어서 마침내 산 위에 도착했어요.	After walking for a long time, we finally reached the top of the mountain.
+죄	그는 경찰서에서 자기 죄를 모두 인정했어요.	He admitted all his crimes at the police station.
+죄	나쁜 일을 하면 언젠가 죄의 대가를 받아요.	If you do bad things, one day you pay the price for your sins.
+차량	아침에는 이 도로에 차량이 아주 많아요.	In the morning there are a lot of vehicles on this road.
+차량	사고가 난 차량이 아직 도로에 있어요.	The car from the accident is still on the road.
+평범하다	저는 회사에 다니는 평범한 사람이에요.	I'm an ordinary person who works at a company.
+암	우리 할아버지는 암 때문에 병원에 계세요.	My grandfather is in hospital because of cancer.
+밟다	지하철에서 누가 제 발을 세게 밟았어요.	Someone stepped hard on my foot on the subway.
+금	이 반지는 진짜 금으로 만들었어요.	This ring is made of real gold.
+금	요즘 금 가격이 많이 올랐어요.	The price of gold has gone up a lot these days.
+물고기	이 강에는 물고기가 아주 많이 살아요.	A great many fish live in this river.
+깜짝	갑자기 문이 열려서 깜짝 놀랐어요.	The door suddenly opened and I was startled.
+피부	여름에는 피부를 잘 보호해야 해요.	In summer you have to protect your skin well.
+잘생기다	그 영화에 나온 배우는 정말 잘생겼어요.	The actor in that film is really handsome.
+잘생기다	제 남자 친구는 잘생기고 아주 친절해요.	My boyfriend is handsome and very kind.
+발견되다	깊은 숲에서 아주 오래된 집이 발견되었어요.	A very old house was discovered deep in the forest.
+지치다	하루 종일 쉬지 않고 일해서 너무 지쳤어요.	I worked all day without a break, so I'm exhausted.
+길이	이 다리의 길이는 얼마나 돼요?	How long is this bridge?
+길이	이 바지는 길이가 저한테 조금 길어요.	These trousers are a little long for me.
+공주	옛날에 작은 성에 예쁜 공주가 살았어요.	Long ago a pretty princess lived in a small castle.
+공주	우리 딸은 공주 옷을 입고 싶어해요.	Our daughter wants to wear a princess dress.
+솔직하다	무슨 일이 있었는지 솔직하게 말해 주세요.	Please tell me honestly what happened.
+벌	그는 학교에 늦어서 선생님께 벌을 받았어요.	He was late for school, so the teacher punished him.
+의학	요즘 의학이 많이 좋아져서 사람들이 오래 살아요.	Medicine has improved a lot lately, so people live long.
+쥐	어젯밤에 부엌에서 큰 쥐를 봤어요.	I saw a big mouse in the kitchen last night.
+쥐	우리 고양이가 오늘 아침에 쥐를 잡았어요.	Our cat caught a mouse this morning.
+모델	그녀는 요즘 아주 유명한 모델이에요.	She is a very famous model these days.
+그만두다	그는 지난 달에 다니던 회사를 그만두었어요.	He quit the company he worked for last month.
+좁다	이 길은 너무 좁아서 차가 못 지나가요.	This road is too narrow for cars to get through.
+좁다	제 방은 좁아서 침대와 책상만 있어요.	My room is small, so there's only a bed and a desk.
+엄청나다	어젯밤에 엄청난 비가 와서 길이 막혔어요.	There was a huge amount of rain last night, so the roads were blocked.
+엄청나다	그 가수는 엄청난 인기를 얻었어요.	That singer became enormously popular.
+불법	여기에 차를 세우는 것은 불법이에요.	Parking your car here is illegal.
+불법	그 사람은 불법으로 일을 하다가 잡혔어요.	That person was caught working illegally.
+더럽다	방이 너무 더러워서 오늘 꼭 치워야 해요.	The room is so dirty that I really have to tidy it today.
+더럽다	아이 손이 더러우니까 먼저 씻으세요.	The child's hands are dirty, so wash them first.
+굉장히	오늘은 날씨가 굉장히 더워서 밖에 못 나가요.	The weather is extremely hot today, so I can't go outside.
+굉장히	그 식당 음식은 굉장히 맛있고 싸요.	The food at that restaurant is extremely tasty and cheap.
+표시	지도에 있는 빨간색 표시가 우리 집이에요.	The red mark on the map is our house.
+잘못하다	제가 정말 잘못했어요. 다시는 안 그럴게요.	I really did wrong. I won't do it again.
+잘못하다	숙제를 잘못해서 다시 해야 해요.	I did my homework wrong, so I have to do it again.
+깨닫다	저는 시간이 많이 지난 후에 제 실수를 깨달았어요.	I only realised my mistake a long time later.
+얼른	늦었으니까 얼른 옷을 입고 나가세요.	It's late, so hurry up, get dressed and go out.
+얼른	배가 고파서 얼른 밥을 먹고 싶어요.	I'm hungry, so I want to eat quickly.
+원숭이	동물원에서 원숭이가 바나나를 먹고 있었어요.	At the zoo a monkey was eating a banana.
+원숭이	원숭이는 나무 위에서 사는 것을 좋아해요.	Monkeys like living up in the trees.
+가득하다	그의 작은 방은 오래된 책으로 가득해요.	His small room is full of old books.
+행복	가족과 함께 있는 것이 저의 행복이에요.	Being with my family is my happiness.
+행복	돈이 많아도 행복을 살 수는 없어요.	Even with a lot of money you can't buy happiness.
+수백	그 콘서트에 사람이 수백 명 왔어요.	Hundreds of people came to that concert.
+수백	이 도서관에는 오래된 책이 수백 권 있어요.	This library has hundreds of old books.
+못되다	그 아이는 동생에게 못되게 굴었어요.	That child was mean to his younger sibling.
+못되다	못된 말을 하면 친구가 떠나요.	If you say nasty things, your friends will leave.
+예술	저는 대학교에서 예술을 공부하고 있어요.	I'm studying art at university.
+예술	이 도시에는 예술을 좋아하는 사람이 많아요.	There are many people who love art in this city.
+종교	그 나라에는 여러 종교가 함께 있어요.	Several religions exist together in that country.
+종교	저는 종교가 없지만 교회에 가끔 가요.	I have no religion, but I sometimes go to church.
+흘리다	아이가 아침에 우유를 바닥에 흘렸어요.	The child spilled milk on the floor in the morning.
+흘리다	그 영화를 보고 눈물을 많이 흘렸어요.	I shed a lot of tears watching that film.
+전기	어젯밤에 갑자기 전기가 나가서 너무 어두웠어요.	The electricity suddenly went out last night, so it was very dark.
+전기	이 자동차는 기름이 아니라 전기로 가요.	This car runs on electricity, not petrol.
+터지다	공이 갑자기 터져서 아이가 크게 울었어요.	The ball suddenly burst and the child cried loudly.
+수고하다	오늘 하루 종일 정말 수고하셨어요.	Thank you for all your hard work today.
+수고하다	선생님, 수고하세요. 내일 또 올게요.	Thank you for your work, teacher. I'll come again tomorrow.
+현금	이 작은 가게에서는 카드가 아니라 현금만 받아요.	This small shop only takes cash, not cards.
+정상	병원 검사 결과가 모두 정상이라서 기뻤어요.	All the hospital test results were normal, so I was happy.
+정상	우리는 세 시간 걸려서 산 정상에 올라갔어요.	It took us three hours to climb to the top of the mountain.
+바르다	다친 곳에 약을 바르고 집에서 쉬세요.	Put some medicine on the injury and rest at home.
+바르다	아이 다리에 약을 발라 주세요.	Please put some medicine on the child's leg.
+웃기다	그 사람 이야기는 정말 웃겨서 계속 웃었어요.	That person's story was so funny that I kept laughing.
+웃기다	제 동생은 항상 웃긴 표정을 지어요.	My younger sibling always makes funny faces.
+채우다	컵에 물을 가득 채워 주세요.	Please fill the cup with water.
+채우다	이 서류의 빈 곳을 모두 채우세요.	Fill in all the blanks on this document.
+빨갛다	가을이 되면 산이 빨갛게 변해서 아름다워요.	In autumn the mountains turn red and look beautiful.
+알아내다	경찰이 드디어 그 사람의 이름을 알아냈어요.	The police finally found out that person's name.
+저리	저리 가서 조용히 기다려 주세요.	Please go over there and wait quietly.
+가스	부엌에서 가스 냄새가 나요. 조심하세요.	There's a smell of gas in the kitchen. Be careful.
+가스	가스 요금이 이번 달에 많이 나왔어요.	The gas bill was high this month.
+거부하다	그는 우리 제안을 바로 거부했어요.	He immediately refused our offer.
+요청하다	회사에 도움을 요청했지만 대답이 없었어요.	I asked the company for help, but there was no reply.
+요청하다	손님이 물을 한 잔 더 요청했어요.	The customer asked for one more glass of water.
+떠오르다	샤워를 하다가 좋은 생각이 갑자기 떠올랐어요.	A good idea suddenly came to me in the shower.
+운명	우리가 만난 것은 운명이라고 생각해요.	I think it was fate that we met.
+운명	아무도 자기 운명을 알 수 없어요.	Nobody can know their own fate.
+일정	이번 주 일정이 너무 바빠서 쉴 수 없어요.	My schedule this week is so busy that I can't rest.
+일정	여행 일정을 친구에게 보내 주었어요.	I sent the trip schedule to my friend.
+부끄럽다	많은 사람 앞에서 말하는 것이 부끄러워요.	I'm shy about speaking in front of a lot of people.
+대가	열심히 일한 대가로 돈을 많이 받았어요.	I got a lot of money in return for working hard.
+대가	나쁜 일을 하면 언젠가 대가를 치러요.	If you do bad things, you pay the price some day.
+뽑다	오늘 은행에 가서 돈을 좀 뽑았어요.	I went to the bank today and withdrew some money.
+뽑다	우리 반 학생들은 새 리더를 뽑았어요.	The students in our class chose a new leader.
+꼬리	우리 강아지는 기쁠 때 꼬리를 흔들어요.	Our puppy wags its tail when it's happy.
+꼬리	그 원숭이는 꼬리가 아주 길어요.	That monkey has a very long tail.
+최대한	일이 끝나면 최대한 빨리 집에 돌아올게요.	When work is over I'll come home as fast as I can.
+최대한	저는 최대한 돈을 아끼려고 해요.	I try to save money as much as possible.
+떨다	너무 추워서 아이가 밖에서 몸을 떨었어요.	It was so cold that the child was shivering outside.
+떨다	시험 전에 너무 떨어서 잠을 못 잤어요.	I was so nervous before the exam that I couldn't sleep.
+만지다	박물관에서는 작품을 만지면 안 돼요.	You must not touch the works in the museum.
+만지다	아기가 처음으로 고양이를 천천히 만졌어요.	The baby touched the cat slowly for the first time.
+걱정되다	내일 시험이 너무 걱정돼서 잠이 안 와요.	I'm so worried about tomorrow's exam that I can't sleep.
+박다	그림을 걸려고 아버지가 벽에 못을 박았어요.	Father hammered a nail into the wall to hang a picture.
+박다	어제 트럭이 우리 집 벽을 박았어요.	Yesterday a truck crashed into the wall of our house.
+어쩌면	어쩌면 내일 비가 올지도 몰라요.	Maybe it will rain tomorrow.
+의심	그의 말에는 의심이 많이 들어요.	I have a lot of doubts about what he says.
+겨우	시험에 겨우 붙어서 너무 기뻐요.	I barely passed the exam, so I'm very happy.
+겨우	아침에 겨우 일어나서 학교에 늦었어요.	I barely got up in the morning and was late for school.
+시내	주말에 친구들과 시내에서 쇼핑을 했어요.	At the weekend I went shopping downtown with friends.
+시내	우리 회사는 시내 중심에 있어요.	Our company is in the centre of town.
+식물	우리 집에는 식물이 많아서 공기가 좋아요.	There are a lot of plants in our house, so the air is good.
+식물	식물도 물과 빛이 있어야 살 수 있어요.	Plants also need water and light to live.
+반대하다	우리 가족은 처음에 제 결혼을 반대했어요.	At first my family was against my marriage.
+높이	이 산의 높이는 얼마나 돼요?	How high is this mountain?
+높이	아이가 공을 하늘 높이 던졌어요.	The child threw the ball high into the sky.
+행운	새로 시작하는 일에 행운이 있기를 빌어요.	I wish you luck with your new job.
+행운	저는 이 반지가 행운을 준다고 믿어요.	I believe this ring brings good luck.
+팬	저는 그 가수의 오래된 팬이에요.	I'm a long-time fan of that singer.
+팬	팬들이 공항에서 가수를 기다리고 있었어요.	Fans were waiting for the singer at the airport.
+쓰이다	이 칼은 고기를 자를 때 쓰여요.	This knife is used for cutting meat.
+쓰이다	편지에 제 이름이 쓰여 있었어요.	My name was written on the letter.
+프로	제 형은 프로 축구 선수예요.	My older brother is a professional football player.
+굽다	우리 할머니는 나이가 많아서 등이 굽었어요.	My grandmother is old, so her back is bent.
+굽다	이 길은 많이 굽어서 운전이 어려워요.	This road bends a lot, so it's hard to drive.
+철	이 다리는 철로 만들어서 아주 강해요.	This bridge is made of iron, so it's very strong.
+일종	떡은 한국 사람들이 좋아하는 음식의 일종이에요.	Tteok is a kind of food Koreans like.
+일종	이 공부는 일종의 게임이라고 생각하면 재미있어요.	If you think of this study as a kind of game, it's fun.
+자매	그 두 자매는 얼굴이 아주 비슷해요.	Those two sisters look very alike.
+기업	그는 큰 기업에서 오랫동안 일했어요.	He worked at a big company for a long time.
+기업	요즘 많은 기업이 새로운 사람을 찾고 있어요.	These days many companies are looking for new people.
+시도	첫 시도는 실패했지만 다시 해 볼 거예요.	The first attempt failed, but I'll try again.
+참여하다	저는 이번 주말에 학교 활동에 참여해요.	I'm taking part in a school activity this weekend.
+참여하다	많은 학생들이 그 축구 경기에 참여했어요.	Many students took part in that football match.
+삼촌	우리 삼촌은 시골에서 농장을 하세요.	My uncle runs a farm in the countryside.
+반하다	저는 그 사람을 처음 보고 반했어요.	I fell for that person the first time I saw them.
+각자	점심은 각자 돈을 내고 먹어요.	For lunch everyone pays for themselves.
+각자	우리는 각자 다른 일을 하고 있어요.	We each do different jobs.
+누르다	문을 열려면 이 버튼을 누르세요.	Press this button to open the door.
+감자	엄마가 저녁으로 감자 요리를 만들었어요.	Mom made a potato dish for dinner.
+감자	시장에서 감자와 계란을 많이 샀어요.	I bought a lot of potatoes and eggs at the market.
+데려오다	내일 파티에 친구를 데려와도 돼요?	Can I bring a friend to the party tomorrow?
+데려오다	아버지가 오후에 학교에서 동생을 데려왔어요.	Father brought my younger sibling home from school in the afternoon.
+통과하다	기차가 긴 다리를 통과하고 있어요.	The train is going over a long bridge.
+진단	병원에서 의사가 감기라고 진단을 내렸어요.	At the hospital the doctor diagnosed a cold.
+진단	정확한 진단을 받으려고 큰 병원에 갔어요.	I went to a big hospital to get an accurate diagnosis.
+미리	여행을 가기 전에 미리 표를 사세요.	Buy the tickets in advance before you go on the trip.
+단순하다	이 게임은 단순하지만 아주 재미있어요.	This game is simple but a lot of fun.
+단순하다	그는 생각이 단순하고 솔직한 사람이에요.	He is a simple, honest person.
+위기	작년에 우리 회사가 큰 위기에 처했어요.	Last year our company faced a big crisis.
+위기	우리는 함께 그 위기를 이겨 냈어요.	We overcame that crisis together.
+방해하다	시험 공부를 하는 동생을 방해하지 마세요.	Don't disturb your younger sibling while they study for the exam.
+방해하다	밖의 소리가 제 잠을 방해했어요.	The noise outside disturbed my sleep.
+흔들다	버스 안에서 아이가 저에게 손을 흔들었어요.	A child on the bus waved to me.
+흔들다	바람이 나무를 세게 흔들고 있어요.	The wind is shaking the trees hard.
+갇히다	저는 어제 방에 한 시간 동안 갇혔어요.	Yesterday I was locked in a room for an hour.
+갇히다	눈 때문에 우리는 집에 갇혀 있었어요.	We were stuck at home because of the snow.
+맡기다	여행 동안 고양이를 친구에게 맡겼어요.	I left my cat with a friend during the trip.
+장면	이 영화의 마지막 장면이 정말 슬퍼요.	The last scene of this film is really sad.
+장면	그 장면을 보고 모두 웃었어요.	Everyone laughed when they saw that scene.
+수많다	이 도시에는 수많은 사람이 살아요.	Countless people live in this city.
+자격	그는 이 일을 할 자격이 있어요.	He is qualified to do this job.
+자격	학교에서 선생님이 되려면 자격이 필요해요.	You need qualifications to become a teacher at a school.
+시끄럽다	옆 방이 너무 시끄러워서 잠을 못 잤어요.	The room next door was so noisy that I couldn't sleep.
+시끄럽다	교실이 너무 시끄러우니까 모두 조용히 하세요.	The classroom is too noisy, so everyone please be quiet.
+과학자	우리 삼촌은 미국에서 일하는 유명한 과학자예요.	My uncle is a famous scientist who works in America.
+분야	그는 오랫동안 컴퓨터 분야의 전문가로 일했어요.	He worked as an expert in the field of computers for a long time.
+분야	저는 의학 분야에서 일하고 싶어요.	I want to work in the field of medicine.
+성적	열심히 공부해서 이번 시험 성적이 많이 올랐어요.	I studied hard, so my exam grades went up a lot this time.
+치우다	식사가 끝나면 테이블을 치워 주세요.	Please clear the table when the meal is over.
+진지하다	그는 농담을 안 하고 항상 진지하게 이야기해요.	He doesn't joke and always talks seriously.
+진지하다	이건 농담이 아니라 진지한 이야기예요.	This isn't a joke, it's a serious matter.
+의미하다	이 빨간색 표시는 무엇을 의미해요?	What does this red mark mean?
+업무	오늘은 업무가 많아서 늦게 끝나요.	I have a lot of work today, so I'll finish late.
+즉시	문제가 생기면 즉시 저에게 전화하세요.	If a problem comes up, call me immediately.
+분노	그 소식을 듣고 사람들이 분노했어요.	People were furious when they heard that news.
+분노	그는 분노를 참지 못하고 소리를 질렀어요.	He couldn't hold back his anger and shouted.
+집안	우리 집안은 대대로 이 마을에 살았어요.	Our family has lived in this village for generations.
+겁	저는 겁이 많아서 밤에 혼자 못 나가요.	I'm easily scared, so I can't go out alone at night.
+겁	그 개는 겁을 먹고 도망갔어요.	That dog got scared and ran away.
+버티다	너무 추웠지만 우리는 끝까지 버텼어요.	It was very cold, but we held out to the end.
+버티다	돈이 없어서 한 달을 겨우 버텼어요.	I had no money, so I barely got through the month.
+선거	다음 달에 대통령 선거가 있어요.	There's a presidential election next month.
+선거	이번 선거에서 누구를 뽑을 거예요?	Who are you going to vote for in this election?
+전통	이 마을은 오래된 전통을 지키고 있어요.	This village keeps its old traditions.
+전통	우리 가족은 특별한 날에 전통 음식을 먹어요.	Our family eats traditional food on special days.
+투표	이 나라에서는 성인이 되면 투표를 할 수 있어요.	In this country you can vote when you become an adult.
+사귀다	저는 학교에서 새 친구를 많이 사귀었어요.	I made a lot of new friends at school.
+사귀다	두 사람은 일 년 동안 사귀었어요.	The two of them went out for a year.
+막히다	저녁 여섯 시에는 길이 많이 막혀요.	The roads are very congested at six in the evening.
+막히다	감기 때문에 코가 막혀서 너무 힘들어요.	My nose is blocked because of a cold, so it's really hard.
+쓰러지다	그는 너무 피곤해서 길에서 쓰러졌어요.	He was so tired that he collapsed in the street.
+중독	요즘 많은 아이들이 게임 중독이에요.	These days many children are addicted to games.
+중독	휴대폰 중독은 큰 문제가 되었어요.	Phone addiction has become a big problem.
+들이다	이 일에 시간을 많이 들였어요.	I spent a lot of time on this work.
+위성	이 사진은 위성으로 찍은 거예요.	This photo was taken by satellite.
+위성	달은 지구 주위를 도는 위성이에요.	The moon is a satellite that goes around the earth.
+시리즈	저는 그 영화 시리즈를 다 봤어요.	I've watched the whole film series.
+시리즈	이 책은 모두 다섯 권으로 된 시리즈예요.	This book is a series of five volumes in total.
+엔진	자동차 엔진에서 이상한 소리가 나요.	There's a strange noise coming from the car engine.
+엔진	비행기 엔진이 고장 나서 출발이 늦어졌어요.	The plane's engine broke down, so the departure was delayed.
+발표	내일 수업에서 제가 발표를 해야 해요.	I have to give a presentation in class tomorrow.
+발표	시험 결과 발표는 다음 주 월요일이에요.	The exam results will be announced next Monday.
+신용	그 사람은 신용이 좋아서 모두 믿어요.	That person has a good reputation, so everyone trusts him.
+덕	제가 시험에 붙은 것은 다 선생님 덕이에요.	It's all thanks to you, teacher, that I passed the exam.
+덕	친구 덕에 좋은 일자리를 찾았어요.	Thanks to a friend, I found a good job.
+마치다	일을 다 마치고 집에 갔어요.	I finished all my work and went home.
+마치다	수업을 마치면 도서관에 갈 거예요.	When class is over I'll go to the library.
+우선	우선 손을 씻고 밥을 먹어요.	First wash your hands and then eat.
+우선	우선 이 문제부터 해결해야 해요.	We have to solve this problem first.
+이틀	이틀 동안 비가 계속 왔어요.	It rained for two days straight.
+이틀	이 일은 이틀이면 끝날 거예요.	This work will be done in a couple of days.
+가정	그는 행복한 가정을 만들고 싶어해요.	He wants to build a happy family.
+가정	요즘 많은 가정에 고양이가 있어요.	These days many households have a cat.
+최초	그는 우리 마을 최초의 의사였어요.	He was the first doctor in our village.
+최초	세계 최초의 컴퓨터는 아주 컸어요.	The world's first computer was very big.
+글자	아이가 이제 글자를 읽을 수 있어요.	The child can read letters now.
+글자	이 책은 글자가 너무 작아서 읽기 어려워요.	The letters in this book are so small that it's hard to read.
+독	이 식물에는 독이 있어서 먹으면 안 돼요.	This plant is poisonous, so you mustn't eat it.
+독	그 뱀은 독이 있어서 아주 위험해요.	That snake is venomous, so it's very dangerous.
+아이디어	좋은 아이디어가 있으면 말해 주세요.	If you have a good idea, tell me.
+자동	이 건물의 문은 사람이 오면 자동으로 열려요.	The door of this building opens automatically when someone comes.
+자동	우리 집 차는 자동이라서 운전이 쉬워요.	Our car is an automatic, so it's easy to drive.
+인상	그 사람의 첫 인상이 아주 좋았어요.	My first impression of that person was very good.
+인상	올해 버스와 지하철 요금이 인상되었어요.	Bus and subway fares went up this year.
+통제	경찰이 사고 때문에 도로를 통제했어요.	The police closed the road because of the accident.
+통제	그는 자기 감정을 잘 통제하지 못해요.	He isn't good at controlling his emotions.
+돌	아이가 다리 위에서 강에 돌을 던졌어요.	The child threw a stone into the river from the bridge.
+어찌	어찌 된 일인지 설명해 주세요.	Please explain how this happened.
+이끌다	그는 우리 팀을 승리로 이끌었어요.	He led our team to victory.
+이끌다	선생님이 학생들을 조용히 박물관 안으로 이끌었어요.	The teacher quietly led the students into the museum.
+무너지다	지진 때문에 오래된 건물이 무너졌어요.	The old building collapsed because of the earthquake.
+무너지다	그 소식을 듣고 제 마음이 무너졌어요.	My heart broke when I heard that news.
+웃음	아기의 웃음은 우리 가족을 행복하게 해요.	The baby's laughter makes our family happy.
+웃음	그 이야기를 듣고 웃음을 참을 수 없었어요.	I couldn't help laughing when I heard that story.
+주장하다	그는 자기가 아무것도 모른다고 주장했어요.	He claimed that he didn't know anything.
+추가	커피에 우유를 추가로 넣으면 돈을 더 내야 해요.	If you add extra milk to your coffee, you have to pay more.
+추가	이 식당은 밥을 추가로 주문할 수 있어요.	At this restaurant you can order extra rice.
+자원	이 나라는 자연 자원이 아주 많아요.	This country has a lot of natural resources.
+자원	물은 우리에게 가장 중요한 자원이에요.	Water is our most important resource.
+어쨌든	어쨌든 우리는 내일 아침에 떠날 거예요.	Anyway, we're leaving tomorrow morning.
+어쨌든	조금 늦었지만 어쨌든 모두 잘 도착해서 다행이에요.	We were a bit late, but anyway I'm glad we arrived safely.
+마르다	날씨가 좋아서 밖에 넌 옷이 금방 말랐어요.	The weather was nice, so the clothes I hung outside dried quickly.
+마르다	운동을 많이 해서 그는 많이 말랐어요.	He did a lot of exercise, so he got very thin.
+잡히다	어젯밤에 우리 집에 온 도둑이 경찰에게 잡혔어요.	The thief who came to our house last night was caught by the police.
+주위	우리 집 주위에는 나무가 많아요.	There are a lot of trees around our house.
+주위	그는 주위 사람들에게 항상 친절해요.	He is always kind to the people around him.
+닥치다	큰 위기가 갑자기 우리 회사에 닥쳤어요.	A big crisis suddenly hit our company.
+닥치다	시험이 곧 닥쳐서 요즘 너무 바빠요.	The exam is coming up soon, so I'm very busy these days.
+경고	의사가 건강을 위해 담배를 끊어야 한다고 경고를 했어요.	The doctor warned me I had to quit smoking for my health.
+초	이 문제는 십 초 안에 답을 해야 해요.	You have to answer this question within ten seconds.
+초	생일 케이크 위에 초를 열 개 올렸어요.	I put ten candles on top of the birthday cake.
+울리다	수업 중에 휴대폰이 갑자기 울렸어요.	My phone suddenly rang during class.
+후보	그는 이번 선거의 대통령 후보예요.	He is a presidential candidate in this election.
+도망치다	도둑이 경찰을 보고 빨리 밖으로 도망쳤어요.	The thief saw the police and ran away.
+도망치다	그 개는 문이 열리자마자 밖으로 도망쳤어요.	That dog ran outside as soon as the door opened.
+출발	비 때문에 기차 출발 시간이 십 분 늦어졌어요.	The train's departure was delayed by ten minutes because of the rain.
+출발	내일 아침 출발 전에 짐을 다 챙기세요.	Pack all your things before we leave tomorrow morning.
+정치	저는 정치에 별로 관심이 없어요.	I'm not very interested in politics.
+정치	요즘 뉴스에는 정치 이야기가 많아요.	These days there's a lot of political news.
+어둠	어둠 속에서 아무것도 보이지 않았어요.	I couldn't see anything in the dark.
+승리	우리 팀이 마지막 경기에서 승리를 했어요.	Our team won the last match.
+승리	경기가 끝나고 모두 함께 승리를 축하했어요.	After the match everyone celebrated the victory together.
+밤새	아기가 아파서 밤새 잠을 못 잤어요.	The baby was sick, so I couldn't sleep all night.
+밤새	밤새 눈이 많이 와서 길이 하얘요.	It snowed a lot overnight, so the roads are white.
+버튼	문을 열려면 이 빨간 버튼을 누르세요.	Press this red button to open the door.
+예약	그 식당은 예약을 해야 들어갈 수 있어요.	You can only get into that restaurant with a reservation.
+비키다	죄송하지만 지나가야 하니까 잠깐만 비켜 주세요.	Excuse me, I need to get past, so please move aside for a moment.
+비키다	차가 오니까 길에서 얼른 비키세요.	A car is coming, so quickly get out of the road.
+의심하다	저는 그 사람의 말을 의심하지 않아요.	I don't doubt what that person says.
+감각	그는 음악에 대한 감각이 아주 뛰어나요.	He has an excellent sense of music.
+감각	너무 추워서 손가락에 감각이 없어요.	It's so cold that I can't feel my fingers.
+빚	그는 집을 사려고 은행에 빚을 졌어요.	He went into debt with the bank to buy a house.
+빚	저는 친구에게 진 빚이 아직 많아요.	I still owe my friend a lot.
+함께하다	저는 평생 당신과 함께하고 싶어요.	I want to be with you for the rest of my life.
+현상	이것은 겨울에만 볼 수 있는 자연 현상이에요.	This is a natural phenomenon you can only see in winter.
+현상	요즘 젊은 사람들 사이에서 이런 현상이 많아요.	This phenomenon is common among young people these days.
+쌍둥이	그 두 사람은 쌍둥이라서 얼굴이 똑같아요.	Those two are twins, so they look exactly the same.
+쌍둥이	우리 언니는 작년에 쌍둥이를 낳았어요.	My older sister had twins last year.
+화학	저는 학교에서 화학을 제일 좋아했어요.	Chemistry was my favourite subject at school.
+화학	그는 대학교에서 화학을 가르치는 교수예요.	He is a professor who teaches chemistry at university.
+부서지다	의자가 너무 오래돼서 앉자마자 부서졌어요.	The chair was so old that it broke as soon as I sat on it.
+부서지다	떨어진 컵이 여러 조각으로 부서졌어요.	The cup fell and broke into several pieces.
+아무래도	아무래도 오늘은 비가 올 것 같아요.	It looks like it's going to rain today after all.
+아무래도	아무래도 제가 길을 잘못 온 것 같아요.	I think I must have taken the wrong road.
+우울하다	비가 계속 와서 기분이 조금 우울해요.	It keeps raining, so I feel a little down.
+망치다	제 실수 때문에 파티를 다 망쳤어요.	My mistake ruined the whole party.
+썩다	냉장고에 넣은 사과가 오래돼서 다 썩었어요.	The apples I put in the fridge were old, so they all rotted.
+썩다	단 음식을 많이 먹으면 이가 썩어요.	If you eat a lot of sweet food, your teeth decay.
+듯하다	오늘은 비가 올 듯해서 우산을 가져왔어요.	It looked like rain today, so I brought an umbrella.
+시선	사람들의 시선이 모두 그에게 모였어요.	Everyone's eyes turned to him.
+시선	저는 다른 사람들의 시선을 신경 쓰지 않아요.	I don't care how other people look at me.
+레스토랑	우리는 생일에 비싼 레스토랑에 갔어요.	We went to an expensive restaurant for my birthday.
+판	우리는 저녁에 친구들과 게임을 한 판 했어요.	In the evening we played a round of games with friends.
+토하다	아이가 차 안에서 갑자기 아파서 토했어요.	The child suddenly felt sick in the car and threw up.
+토하다	술을 너무 많이 마셔서 토할 것 같아요.	I drank too much, so I feel like I'm going to be sick.
+국제	이번 여름에 우리 도시에서 국제 회의가 열려요.	An international conference is being held in our city this summer.
+국제	그는 국제 전화로 가족과 이야기해요.	He talks with his family on international calls.
+틀다	방이 너무 조용해서 저는 음악을 틀었어요.	The room was too quiet, so I put on some music.
+헤어지다	우리는 역 앞에서 손을 흔들고 헤어졌어요.	We waved and parted in front of the station.
+헤어지다	그 두 사람은 삼 년 사귀고 헤어졌어요.	Those two broke up after going out for three years.
+넘어지다	길이 얼어서 많은 사람이 넘어졌어요.	The road was icy, so many people fell over.
+강도	어젯밤에 시내에 있는 은행에 강도가 들었어요.	A bank downtown was robbed last night.
+강도	경찰이 그 강도를 드디어 잡았어요.	The police finally caught the robber.
+깊이	저는 그 문제에 대해서 깊이 생각했어요.	I thought deeply about that problem.
+사랑스럽다	우리 아기는 웃을 때 정말 사랑스러워요.	Our baby is really lovely when she smiles.
+숫자	우리 아이는 벌써 숫자를 잘 셀 수 있어요.	Our child can already count numbers well.
+숫자	저는 숫자를 잘 기억하지 못해요.	I'm not good at remembering numbers.
+거치다	이 버스는 시내를 거쳐서 공항에 가요.	This bus goes to the airport via downtown.
+사자	동물원에서 큰 사자를 처음 봤어요.	I saw a big lion at the zoo for the first time.
+사자	사자는 아주 크고 힘이 센 동물이에요.	Lions are very big, strong animals.
+지식	그는 역사에 대한 지식이 아주 많아요.	He has a lot of knowledge about history.
+지식	책을 많이 읽으면 지식이 늘어요.	If you read a lot of books, your knowledge grows.
+주문하다	우리는 피자 두 판을 주문했어요.	We ordered two pizzas.
+기도하다	할머니는 매일 아침 가족을 위해 기도해요.	My grandmother prays for the family every morning.
+기르다	우리 집에서는 강아지 두 마리를 길러요.	We keep two puppies at our house.
+반지	남자 친구가 생일 선물로 예쁜 반지를 줬어요.	My boyfriend gave me a pretty ring for my birthday.
+부드럽다	이 옷은 아주 부드러워서 입기 좋아요.	These clothes are very soft and nice to wear.
+붉다	해가 지면서 저녁 하늘이 붉게 변했어요.	As the sun set, the evening sky turned red.
+붉다	그는 부끄러워서 얼굴이 붉은 색이 되었어요.	He was so embarrassed that his face turned red.
+인물	그는 우리 역사에서 아주 중요한 인물이에요.	He is a very important figure in our history.
+질병	손을 자주 씻으면 질병을 막을 수 있어요.	Washing your hands often can prevent disease.
+제외하다	일요일을 제외하고 매일 가게를 열어요.	The shop is open every day except Sunday.
+모임	오늘 저녁에 친구들 모임이 있어요.	I have a get-together with friends this evening.
+모임	저는 매주 한국어 공부 모임에 가요.	I go to a Korean study group every week.
+뛰어나다	그 학생은 수학 실력이 뛰어나요.	That student is excellent at maths.
+뛰어나다	이 식당은 음식 맛이 뛰어나요.	The food at this restaurant is excellent.
+계산	오늘 저녁 식사 계산은 제가 할게요.	I'll pay for dinner tonight.
+견디다	저는 더운 날씨를 잘 견디지 못해요.	I can't stand hot weather very well.
+견디다	그는 힘든 시간을 잘 견뎠어요.	He got through the hard times well.
+반복하다	선생님이 같은 말을 여러 번 반복했어요.	The teacher repeated the same thing several times.
+각	각 학생은 내일 책을 한 권 가져오세요.	Each student should bring one book tomorrow.
+각	이 호텔은 각 방에 컴퓨터가 있어요.	This hotel has a computer in each room.
+적절하다	그 말은 이 자리에 적절하지 않아요.	Those words aren't appropriate for this occasion.
+적절하다	적절한 운동은 건강에 아주 좋아요.	The right amount of exercise is very good for your health.
+나서다	그 일을 하려고 아무도 먼저 나서지 않았어요.	Nobody stepped forward first to do that job.
+모래	아이들이 바다 옆에서 모래로 성을 만들어요.	The children are building a sand castle by the sea.
+얼음	날씨가 더워서 물에 얼음을 넣었어요.	It was hot, so I put ice in the water.
+얼음	아주 추운 겨울에는 강에 얼음이 얼어요.	In very cold winters ice forms on the river.
+규모	그 회사는 규모가 아주 커요.	That company is very large in scale.
+규모	이번 지진의 규모는 아주 컸어요.	This earthquake was very large in magnitude.
+부담	너무 비싼 선물은 부담이 돼요.	A present that's too expensive is a burden.
+거실	우리 가족은 저녁에 거실에서 텔레비전을 봐요.	Our family watches television in the living room in the evening.
+거실	우리 집 거실에 큰 텔레비전이 있어요.	There's a big television in our living room.
+제품	이 회사의 새 제품이 아주 인기가 많아요.	This company's new product is very popular.
+제품	이 제품은 가격이 싸고 아주 좋아요.	This product is cheap and very good.
+가짜	그 가방은 진짜가 아니라 가짜예요.	That bag isn't real, it's fake.
+가짜	인터넷에 있는 가짜 뉴스를 믿지 마세요.	Don't believe fake news on the internet.
+매번	그는 매번 약속 시간에 늦게 와요.	He comes late to appointments every time.
+지원하다	저는 지난주에 그 회사에 일자리를 지원했어요.	I applied for a job at that company last week.
+지원하다	정부가 돈이 없는 가정을 많이 지원해요.	The government gives a lot of support to families without money.
+불편하다	이 의자는 너무 작아서 앉기 불편해요.	This chair is too small, so it's uncomfortable to sit on.
+스타일	저는 이런 스타일의 옷을 좋아해요.	I like this style of clothes.
+스타일	저는 어제 머리 스타일을 완전히 바꿨어요.	Yesterday I completely changed my hairstyle.
+더하다	수프에 소금을 조금 더하면 맛이 좋아져요.	If you add a little salt to the soup, it tastes better.
+더하다	두 숫자를 더하면 얼마가 돼요?	What do you get if you add the two numbers?
+무척	오랜만에 친구를 만나서 무척 기뻤어요.	I was very happy to meet my friend after a long time.
+무척	오늘은 일이 많아서 무척 바빠요.	I have a lot of work today, so I'm very busy.
+살짝	그는 문을 살짝 열고 밖을 봤어요.	He opened the door slightly and looked outside.
+살짝	이 음식은 살짝 짜지만 맛있어요.	This food is a little salty but tasty.
+발표하다	우리 회사가 오늘 새 제품을 발표했어요.	Our company announced a new product today.
+이루어지다	당신의 꿈이 꼭 이루어지기를 바라요.	I hope your dream comes true.
+이루어지다	이 팀은 다섯 명으로 이루어져 있어요.	This team is made up of five people.
+저번	저번 주에 본 영화가 정말 재미있었어요.	The film I saw last week was really fun.
+저번	저번에 만난 그 사람을 기억해요?	Do you remember that person we met last time?
+놀이	아이들은 밖에서 놀이를 하고 있어요.	The children are playing a game outside.
+싣다	이사를 하려고 트럭에 짐을 다 실었어요.	I loaded all our things onto the truck to move house.
+싣다	그 신문은 제 글을 실었어요.	That newspaper published my article.
+불쌍하다	비를 맞은 고양이가 너무 불쌍해요.	The cat caught in the rain looks so pitiful.
+불쌍하다	그 아이는 부모가 없어서 불쌍해요.	That child has no parents, so I feel sorry for him.
+중앙	광장 중앙에 큰 나무가 있어요.	There's a big tree in the middle of the square.
+중앙	교실 중앙에 선생님 책상이 있어요.	The teacher's desk is in the middle of the classroom.
+표정	그는 슬픈 표정으로 창문 밖을 봤어요.	He looked out of the window with a sad expression.
+표정	선물을 받은 아이의 표정이 아주 밝아요.	The child who got the present looks very happy.
+고민	요즘 얼굴이 안 좋은데 무슨 고민이 있어요?	You don't look well lately, is something worrying you?
+고민	저는 미래 때문에 고민이 많아요.	I'm very worried about my future.
+교사	우리 어머니는 작은 학교에서 일하는 교사예요.	My mother is a teacher who works at a small school.
+시골	저는 어렸을 때 시골에서 살았어요.	I lived in the countryside when I was young.
+닿다	키가 작아서 손이 위에 닿지 않아요.	I'm short, so my hand doesn't reach the top.
+닿다	제가 보낸 편지가 드디어 친구에게 닿았어요.	The letter I sent finally reached my friend.
+여유	요즘은 바빠서 쉴 여유가 없어요.	I'm busy these days, so I have no time to rest.
+넘기다	저는 책을 한 장 한 장 천천히 넘겼어요.	I slowly turned the pages of the book one by one.
+넘기다	그는 일을 다른 사람에게 넘겼어요.	He handed the work over to someone else.
+위협	그 남자는 칼을 들고 사람들을 위협을 했어요.	The man held a knife and threatened people.
+위협	더러운 공기는 우리 건강에 큰 위협이에요.	Dirty air is a big threat to our health.
+주장	그의 주장은 너무 복잡해서 이해하기 어려워요.	His argument is so complicated that it's hard to understand.
+주장	우리 팀 주장은 축구를 아주 잘해요.	Our team captain is very good at football.
+티켓	저는 콘서트 티켓을 인터넷으로 두 장 샀어요.	I bought two concert tickets online.
+살펴보다	의사가 아이의 몸을 천천히 살펴봤어요.	The doctor carefully examined the child's body.
+살펴보다	서류를 잘 살펴보고 이름을 쓰세요.	Look over the document carefully and write your name.
+상품	이 가게에는 여러 가지 상품이 있어요.	This shop has a variety of goods.
+상품	이 상품은 지금 아주 싸게 팔고 있어요.	This product is being sold very cheaply right now.
+발음	한국어 발음이 아주 좋아서 깜짝 놀랐어요.	I was surprised that your Korean pronunciation is so good.
+여권	여행을 가기 전에 여권을 꼭 챙기세요.	Be sure to take your passport before you travel.
+여권	공항에서 여권을 잃어버려서 정말 힘들었어요.	I lost my passport at the airport, so it was really hard.
+연결	우리 집은 인터넷 연결이 자주 안 돼요.	The internet connection at our house often doesn't work.
+연결	이 다리는 두 도시의 연결에 아주 중요해요.	This bridge is very important for connecting the two cities.
+뚱뚱하다	우리 고양이는 너무 많이 먹어서 뚱뚱해요.	Our cat eats too much, so it's fat.
+뚱뚱하다	요즘 운동을 안 해서 조금 뚱뚱해졌어요.	I haven't exercised lately, so I've put on some weight.
+원래	저는 원래 아침을 안 먹어요.	I don't usually eat breakfast.
+근육	매일 운동을 하면 근육이 생겨요.	If you exercise every day, you build muscle.
+근육	어제 운동을 너무 많이 해서 근육이 아파요.	I exercised too much yesterday, so my muscles hurt.
+복수	그는 친구를 위해 복수를 하고 싶었어요.	He wanted to take revenge for his friend.
+어머님	어머님, 요즘 건강하게 잘 지내세요?	Mother, are you keeping well these days?
+예약하다	저는 인터넷으로 호텔 방을 예약했어요.	I booked a hotel room online.
+지진	어젯밤에 우리 도시에 작은 지진이 있었어요.	There was a small earthquake in our city last night.
+지진	지진 때문에 많은 집이 무너졌어요.	Many houses collapsed because of the earthquake.
+나타내다	이 그림은 따뜻한 봄을 나타내요.	This painting represents warm spring.
+나타내다	그는 좋은 소식을 듣고 얼굴에 기쁨을 나타냈어요.	He heard the good news and his face showed his joy.
+한마디	그는 한마디도 하지 않고 나갔어요.	He went out without saying a word.
+도둑	어젯밤에 우리 집에 도둑이 들었어요.	A thief broke into our house last night.
+뒤지다	엄마가 제 방에서 가방을 뒤졌어요.	Mom went through my bag in my room.
+뒤지다	열쇠를 찾으려고 방을 다 뒤졌어요.	I searched the whole room to find the key.
+테스트	내일 아침에 영어 테스트가 있어요.	I have an English test tomorrow morning.
+테스트	새 프로그램을 먼저 테스트해 보세요.	Test the new program first.
+붙잡다	경찰이 도망가는 도둑을 길에서 붙잡았어요.	The police caught the fleeing thief in the street.
+붙잡다	그녀는 제 손을 붙잡고 울었어요.	She held my hand and cried.
+커다랗다	우리 집 정원에 커다란 나무가 있어요.	There's a huge tree in our garden.
+주민	이 마을 주민들은 모두 친절해요.	The residents of this village are all kind.
+주민	주민들이 주말에 공원을 함께 치웠어요.	The residents tidied the park together at the weekend.
+옛	이 사진을 보니까 옛 생각이 나요.	Looking at this photo reminds me of the old days.
+옛	우리는 옛 친구를 오랜만에 만났어요.	We met an old friend after a long time.
+통화하다	어젯밤에 엄마와 한 시간 동안 통화했어요.	I talked on the phone with Mom for an hour last night.
+통화하다	잠깐 지금 통화할 수 있어요?	Can you talk on the phone for a moment now?
+나아가다	우리는 앞으로 계속 나아갈 거예요.	We will keep moving forward.
+나아가다	작은 배가 천천히 넓은 바다로 나아갔어요.	The small boat slowly moved out into the open sea.
+일부러	저는 일부러 그런 게 아니에요.	I didn't do that on purpose.
+일부러	그는 회의에 일부러 늦게 왔어요.	He came to the meeting late on purpose.
+로봇	이 공장에서는 로봇이 자동차를 만들어요.	In this factory robots make cars.
+로봇	아이가 생일 선물로 로봇을 받았어요.	The child got a robot as a birthday present.
+사망	그 사고의 사망 원인은 아직 몰라요.	The cause of death in that accident is still unknown.
+그거	그거 어디에서 샀는지 알려 주세요.	Tell me where you bought that.
+그거	그거 정말 좋은 생각이라고 생각해요.	I think that's a really good idea.
+존중하다	우리는 서로의 의견을 존중해야 해요.	We have to respect each other's opinions.
+만일	만일 비가 오면 경기는 다음 주에 해요.	If it rains, the match will be next week.
+만일	만일을 위해서 우산을 꼭 가져가세요.	Be sure to take an umbrella just in case.
+감히	감히 선생님께 그런 말을 해요?	How dare you say that to the teacher?
+감히	저는 감히 그에게 아무것도 물어볼 수 없었어요.	I didn't dare ask him anything.
+비용	여행 비용이 생각보다 많이 들었어요.	The trip cost more than I expected.
+비용	자동차를 고치는 비용은 회사가 내요.	The company pays the cost of fixing the car.
+시야	비가 많이 와서 운전할 때 시야가 나빠요.	It's raining a lot, so visibility is poor when driving.
+로맨틱하다	우리는 바다 옆 식당에서 로맨틱한 저녁을 먹었어요.	We had a romantic dinner at a restaurant by the sea.
+유용하다	이 지도는 여행을 할 때 아주 유용해요.	This map is very useful when you travel.
+표현하다	저는 제 감정을 표현하는 것이 어려워요.	It's hard for me to express my feelings.
+표현하다	그는 그림으로 자기 생각을 표현해요.	He expresses his thoughts through pictures.
+덮다	추우니까 밤에 이불을 잘 덮고 자요.	It's cold, so cover yourself well with a blanket at night.
+취소하다	비가 너무 많이 와서 여행을 취소했어요.	It rained too much, so I cancelled the trip.
+실수하다	저는 어제 시험에서 또 실수했어요.	I made a mistake on the exam again yesterday.
+실수하다	실수해도 괜찮아요. 다시 하면 돼요.	It's okay to make mistakes. You can just do it again.
+꿈꾸다	저는 가수가 되는 것을 꿈꿔요.	I dream of becoming a singer.
+한잔	오늘 저녁에 같이 한잔 해요.	Let's have a drink together this evening.
+관	오래된 관 안에서 금으로 만든 반지가 나왔어요.	A gold ring was found inside the old coffin.
+묶다	날씨가 더워서 머리를 뒤로 묶었어요.	It was hot, so I tied my hair back.
+묶다	이 상자들을 하나로 잘 묶어 주세요.	Please tie these boxes together well.
+비교하다	다른 사람과 자기를 비교하지 마세요.	Don't compare yourself with others.
+비교하다	두 가게의 가격을 비교해 봤어요.	I compared the prices at the two shops.
+기름	이 요리에는 기름을 조금만 넣으세요.	Use only a little oil in this dish.
+넘치다	비가 많이 와서 강이 넘쳤어요.	It rained a lot, so the river overflowed.
+인구	이 도시의 인구는 계속 늘고 있어요.	The population of this city keeps growing.
+녹색	봄이 되면 산이 모두 녹색으로 변해요.	In spring the mountains all turn green.
+녹색	저는 녹색 옷을 입은 사람을 찾고 있어요.	I'm looking for a person wearing green clothes.
+경계	이 강은 두 나라의 경계예요.	This river is the border between two countries.
+경계	이 산이 두 마을의 경계가 되었어요.	This mountain became the boundary between the two villages.
+유리	아이가 던진 공 때문에 창문 유리에 금이 갔어요.	The ball the child threw cracked the window glass.
+유리	이 컵은 유리로 만들어서 조심해야 해요.	This cup is made of glass, so you have to be careful.
+폭력	어떤 이유가 있어도 폭력은 절대 안 돼요.	Violence is never okay, whatever the reason.
+폭력	그 영화에는 폭력 장면이 너무 많아요.	That film has too many violent scenes.
+분명하다	제 질문에 대한 그의 대답은 아주 분명했어요.	His answer to my question was very clear.
+긴장	시험 전에는 누구나 긴장을 해요.	Everyone gets nervous before an exam.
+긴장	긴장을 풀고 천천히 크게 이야기하세요.	Relax and speak slowly and loudly.
+소속	저는 이 회사 소속이 아니에요.	I don't belong to this company.
+소속	그 선수의 소속 팀이 바뀌었어요.	That player's team has changed.
+마침	마침 버스가 와서 바로 탔어요.	The bus came just then, so I got on right away.
+마침	전화하려고 했는데 마침 전화가 왔네요.	I was about to call, and just then you called.
+댁	선생님 댁은 여기에서 많이 멀어요?	Is your house very far from here, teacher?
+댁	주말에 할머니 댁에서 가족들이 모였어요.	The family gathered at my grandmother's house at the weekend.
+추락	어제 작은 비행기가 산에 추락했어요.	A small plane crashed into a mountain yesterday.
+추락	그 사고의 추락 원인을 조사하고 있어요.	They are investigating the cause of the crash.
+다리:bridge	이 다리를 지나면 바로 시장이 있어요.	The market is right past this bridge.
+콩	엄마는 밥에 콩을 넣어서 만들어요.	Mom makes rice with beans in it.
+다행히	다행히 비가 그쳐서 공원에 갈 수 있었어요.	Luckily the rain stopped, so we could go to the park.
+다행히	사고가 났지만 다행히 아무도 안 다쳤어요.	There was an accident, but luckily nobody was hurt.
+내려오다	우리 고양이가 높은 나무에서 내려오지 않아요.	Our cat won't come down from the tall tree.
+내려오다	우리는 해가 지기 전에 산에서 내려왔어요.	We came down the mountain before the sun set.
+골프	아버지는 주말마다 친구들과 골프를 치세요.	My father plays golf with friends every weekend.
+골프	저는 골프를 한 번도 쳐 본 적이 없어요.	I have never played golf.
+자녀	그 부부는 자녀가 세 명 있어요.	That couple has three children.
+말리다	싸우는 두 아이를 선생님이 말렸어요.	The teacher stopped the two children who were fighting.
+소원	제 소원은 가족이 모두 건강한 것이에요.	My wish is for my whole family to be healthy.
+가사	저는 이 노래 가사가 정말 좋아요.	I really like the lyrics of this song.
+가사	노래 가사를 다 외워서 같이 불렀어요.	I memorised all the lyrics and sang along.
+캐릭터	이 영화에서 제일 좋아하는 캐릭터가 누구예요?	Who is your favourite character in this film?
+캐릭터	아이들은 그 게임 캐릭터를 아주 좋아해요.	Children really like that game character.
+고개	그는 아무 말도 하지 않고 고개를 돌렸어요.	He turned his head away without saying anything.
+고개	부끄러워서 고개를 들 수 없었어요.	I was so embarrassed that I couldn't raise my head.
+졸다	수업 시간에 너무 피곤해서 졸았어요.	I was so tired in class that I dozed off.
+졸다	운전할 때 졸면 아주 위험해요.	Dozing off while driving is very dangerous.
+번개	어젯밤에 번개가 치고 비가 많이 왔어요.	Last night there was lightning and heavy rain.
+참석하다	저는 내일 친구 결혼식에 참석해요.	I'm attending my friend's wedding tomorrow.
+참석하다	많은 사람들이 그 회의에 참석했어요.	Many people attended that meeting.
+부족	잠이 부족해서 하루 종일 피곤해요.	I'm short of sleep, so I'm tired all day.
+부족	요즘 이 지역은 물 부족 문제가 심각해요.	These days the water shortage in this area is serious.
+눈치	그는 눈치가 빨라서 금방 알았어요.	He's quick to pick up on things, so he knew right away.
+눈치	저는 눈치가 없어서 가끔 실수를 해요.	I'm not good at reading the room, so I sometimes make mistakes.
+도망가다	고양이가 문이 열리자 밖으로 도망갔어요.	The cat ran outside as soon as the door opened.
+도망가다	그 사람은 돈을 가지고 멀리 도망갔어요.	That person ran far away with the money.
+통증	다리에 통증이 있어서 병원에 갔어요.	I had pain in my leg, so I went to the hospital.
+통증	이 약을 먹으면 통증이 좀 나아질 거예요.	If you take this medicine, the pain will get a bit better.
+도중	집에 가는 도중에 친구를 만났어요.	I met a friend on the way home.
+공동	이 부엌은 모든 사람이 쓰는 공동 공간이에요.	This kitchen is a shared space everyone uses.
+공동	두 회사가 공동으로 새 제품을 만들었어요.	The two companies made a new product jointly.
+치르다	다음 주에 중요한 시험을 치러요.	I'm taking an important exam next week.
+경제	요즘 나라 경제가 좋지 않아요.	The country's economy isn't good these days.
+경제	저는 대학교에서 사 년 동안 경제를 공부했어요.	I studied economics at university for four years.
+차라리	버스를 계속 기다리는 것보다 차라리 걸어가는 게 나아요.	It's better to walk than to keep waiting for the bus.
+차라리	비싼 식당보다 차라리 집에서 먹고 싶어요.	I'd rather eat at home than at an expensive restaurant.
+오히려	약을 먹었는데 오히려 더 아파요.	I took the medicine, but I feel even worse.
+오히려	제가 도와주려고 했는데 오히려 일이 더 어려워졌어요.	I tried to help, but it made the work harder instead.
+세월	나이가 들수록 세월이 정말 빨리 지나가요.	The older you get, the faster time flies.
+세월	오랜 세월이 지나도 그 날을 잊을 수 없어요.	Even after many years I can't forget that day.
+배터리	휴대폰 배터리가 거의 다 떨어졌어요.	My phone battery is almost dead.
+미소	그녀는 밝은 미소로 우리를 맞이했어요.	She welcomed us with a bright smile.
+노인	이 공원에는 아침마다 노인들이 산책을 해요.	Old people take walks in this park every morning.
+노인	버스에서는 서 있는 노인에게 자리를 주세요.	On the bus, give your seat to old people who are standing.
+고장	차가 고장이 나서 버스를 타고 왔어요.	My car broke down, so I came by bus.
+고장	이 기계는 고장이 자주 나요.	This machine breaks down often.
+폭발	공장에서 큰 폭발 사고가 있었어요.	There was a big explosion at the factory.
+폭발	폭발 소리에 사람들이 모두 놀랐어요.	Everyone was startled by the sound of the explosion.
+곤란하다	갑자기 그런 질문을 하면 곤란해요.	It's awkward if you suddenly ask a question like that.
+각각	우리는 각각 다른 음식을 주문했어요.	We each ordered different food.
+각각	같은 반 학생들도 각각 생각이 달라요.	Even students in the same class each think differently.
+미팅	오늘 오후에 회사에서 중요한 미팅이 있어요.	I have an important meeting at the company this afternoon.
+창	방에 창이 없어서 너무 어두워요.	The room has no window, so it's very dark.
+창	창을 열어서 방에 공기가 들어오게 했어요.	I opened the window to let air into the room.
+이성	화가 나도 이성을 잃으면 안 돼요.	Even if you're angry, you mustn't lose your reason.
+주머니	저는 열쇠를 주머니에 넣고 집을 나왔어요.	I put the key in my pocket and left the house.
+주머니	제 주머니에는 돈이 하나도 없어요.	I don't have any money in my pocket.
+구경	주말에 시내 구경을 하러 갔어요.	At the weekend I went sightseeing downtown.
+구경	사람들이 모여서 싸움 구경을 하고 있어요.	People have gathered to watch the fight.
+악	그 영화는 착한 사람과 악에 대한 이야기예요.	That film is a story about good people and evil.
+악	그는 악을 이기려고 끝까지 싸웠어요.	He fought to the end to defeat evil.
+지적	선생님의 지적을 듣고 제 실수를 고쳤어요.	I heard the teacher point it out and fixed my mistake.
+지적	그는 아주 지적인 사람이라서 말을 잘해요.	He is a very intellectual person, so he speaks well.
+지지하다	저는 친구의 어려운 결정을 끝까지 지지해요.	I support my friend's difficult decision to the end.
+생	그는 생 고기를 먹고 배가 아팠어요.	He ate raw meat and got a stomach ache.
+도망	그 사람은 도망 중에 경찰에게 잡혔어요.	That person was caught by the police while on the run.
+도망	그들은 밤에 도망을 가기로 했어요.	They decided to run away at night.
+굳이	굳이 오늘 다 하지 않아도 괜찮아요.	You don't have to do it all today.
+굳이	굳이 비싼 옷을 살 필요는 없어요.	There's no need to buy expensive clothes.
+빼앗다	그 남자가 제 가방을 빼앗아 갔어요.	That man snatched my bag.
+빼앗다	동생이 제 책을 빼앗아 가서 화가 났어요.	My younger sibling took my book away, so I got angry.
+상당히	오늘은 어제보다 날씨가 상당히 추워요.	Today is quite a bit colder than yesterday.
+상당히	그 문제는 상당히 어려워서 시간이 걸려요.	That problem is fairly difficult, so it takes time.
+특별히	오늘은 특별히 제가 저녁을 살게요.	Today, as something special, I'll buy dinner.
+특별히	특별히 좋아하는 한국 음식이 있어요?	Is there a Korean food you especially like?
+이불	겨울에는 따뜻한 이불을 덮고 자요.	In winter I sleep under a warm blanket.
+축하	생일 축하 파티에 친구들이 많이 왔어요.	Many friends came to the birthday party.
+축하	친구들의 축하를 받고 정말 기뻤어요.	I was really happy to be congratulated by my friends.
+임신	언니가 임신을 해서 온 가족이 아주 행복해요.	My older sister is pregnant, so the whole family is very happy.
+임신	임신 중에는 술을 마시면 안 돼요.	You must not drink alcohol while pregnant.
+두통	어제부터 두통이 심해서 약을 먹었어요.	I've had a bad headache since yesterday, so I took medicine.
+두통	잠을 못 자서 아침에 두통이 있어요.	I couldn't sleep, so I have a headache this morning.
+풀리다	날씨가 풀려서 이제 조금 따뜻해요.	The weather has eased, so it's a little warm now.
+풀리다	오랫동안 생각한 어려운 문제가 드디어 풀렸어요.	The difficult problem I thought about for a long time was finally solved.
+낭비	필요 없는 물건을 사는 것은 돈 낭비예요.	Buying things you don't need is a waste of money.
+디자인	이 가방은 디자인이 예뻐서 샀어요.	I bought this bag because the design is pretty.
+무례하다	어른에게 그렇게 말하는 것은 무례해요.	It's rude to talk to adults like that.
+무례하다	그 사람은 무례하게 제 말을 끊었어요.	That person rudely cut me off.
+동전	주머니에 동전이 몇 개 있어요.	I have a few coins in my pocket.
+동전	저는 버스를 타려고 동전을 미리 준비했어요.	I got some coins ready in advance to take the bus.
+지나치다	너무 지나치게 먹으면 몸에 안 좋아요.	Eating too much is bad for your body.
+지나치다	그 말은 조금 지나친 것 같아요.	I think what you said went a bit too far.
+걸어가다	우리 집에서 학교까지 걸어가면 오래 걸려요.	It takes a long time to walk from our house to school.
+당황하다	갑자기 질문을 받아서 많이 당황했어요.	I was really flustered when I was suddenly asked a question.
+이래	그 사고 이래로 그는 운전을 안 해요.	He hasn't driven since that accident.
+이래	이 학교가 생긴 이래 처음 있는 일이에요.	It's the first time this has happened since the school was founded.
+수상하다	어떤 수상한 사람이 우리 집 앞에 있어요.	There's a suspicious person in front of our house.
+수상하다	그의 행동이 요즘 좀 수상해요.	His behaviour has been a bit suspicious lately.
+의무	아이를 학교에 보내는 것은 부모의 의무예요.	Sending your children to school is a parent's duty.
+졸업하다	저는 작년 겨울에 대학교를 졸업했어요.	I graduated from university last winter.
+졸업하다	언니는 학교를 졸업하고 바로 회사에 들어갔어요.	My older sister graduated from school and joined a company right away.
+정직하다	그는 정직한 사람이라서 거짓말을 안 해요.	He is an honest person, so he doesn't lie.
+정직하다	정직하게 말하면 선생님이 용서해 줄 거예요.	If you speak honestly, the teacher will forgive you.
+실망하다	시험 결과를 보고 많이 실망했어요.	I was very disappointed when I saw the exam results.
+지붕	비가 와서 지붕에서 물이 떨어져요.	It's raining, so water is dripping from the roof.
+방문	다음 달에 친구 집 방문을 할 계획이에요.	I'm planning to visit a friend's house next month.
+방문	선생님의 방문에 학생들이 모두 좋아했어요.	All the students were glad about the teacher's visit.
+차갑다	아침에 차가운 물로 얼굴을 씻었어요.	I washed my face with cold water in the morning.
+호랑이	동물원에서 큰 호랑이가 자고 있었어요.	A big tiger was sleeping at the zoo.
+똑바로	제 눈을 똑바로 보고 말해 주세요.	Look me straight in the eye and tell me.
+똑바로	이 길을 똑바로 가면 역이 나와요.	If you go straight along this road, you'll come to the station.
+오해	제 말을 듣고 오해가 없기를 바라요.	I hope there's no misunderstanding about what I said.
+맞이하다	우리는 새로운 해를 가족과 함께 맞이했어요.	We welcomed the new year with our family.
+맞이하다	손님을 맞이하려고 집을 깨끗하게 치웠어요.	I tidied the house to welcome our guests.
+용감하다	그 소년은 아주 용감하게 친구를 구했어요.	That boy very bravely saved his friend.
+용감하다	용감한 군인들이 끝까지 나라를 지켰어요.	Brave soldiers protected the country to the end.
+경향	요즘 젊은 사람들은 결혼을 늦게 하는 경향이 있어요.	These days young people tend to marry late.
+재미없다	그 영화는 너무 재미없어서 저는 잠을 잤어요.	That film was so boring that I fell asleep.
+목록	사야 할 물건의 목록을 만들었어요.	I made a list of things I need to buy.
+목록	이 목록에 이름을 써 주세요.	Please write your name on this list.
+메일	회의 자료를 메일로 보내 주세요.	Please send the meeting materials by email.
+메일	아침에 일어나서 제일 먼저 메일을 확인해요.	The first thing I do when I get up is check my email.
+소송	그 회사는 큰 소송에서 이겼어요.	That company won a big lawsuit.
+소송	그는 다니던 회사에 소송을 걸었어요.	He sued the company he worked for.
+자연스럽다	그의 한국어 발음은 아주 자연스러워요.	His Korean pronunciation is very natural.
+자연스럽다	처음에는 힘들었지만 이제는 아주 자연스러워요.	It was hard at first, but now it's very natural.
+체포	그 남자는 경찰서에서 체포 이유를 물었어요.	At the police station the man asked why he'd been arrested.
+체포	도둑은 공항에서 비행기를 타기 전에 체포되었어요.	The thief was arrested at the airport before getting on the plane.
+겁나다	밤에 혼자 집에 가는 것이 겁나요.	I'm scared of going home alone at night.
+느껴지다	그의 말에서 따뜻한 마음이 느껴져요.	I can feel the warmth in his words.
+느껴지다	봄이 오는 것이 공기에서 느껴져요.	You can feel spring coming in the air.
+증오	그는 오랫동안 마음에 증오를 가지고 살았어요.	He lived with hatred in his heart for a long time.
+증오	증오는 우리를 행복하게 하지 않아요.	Hatred doesn't make us happy.
+침착하다	위험한 일이 생기면 침착하게 행동하세요.	If something dangerous happens, act calmly.
+내려놓다	저는 무거운 가방을 바닥에 내려놓았어요.	I put the heavy bag down on the floor.
+내려놓다	밥을 먹을 때는 휴대폰을 내려놓고 저를 보세요.	When you eat, put your phone down and look at me.
+동쪽	해는 매일 아침에 동쪽에서 떠요.	The sun rises in the east every morning.
+동쪽	우리 마을의 동쪽에는 큰 강이 있어요.	There's a big river to the east of our village.
+떡	우리 집에서는 새로운 해에 가족과 함께 떡을 먹어요.	At our house we eat rice cakes with the family for the new year.
+떡	저는 어제 시장에서 맛있는 떡을 샀어요.	Yesterday I bought delicious rice cakes at the market.
+요금	이번 달 전화 요금이 많이 나왔어요.	My phone bill was high this month.
+배신하다	그는 가장 친한 친구를 배신했어요.	He betrayed his best friend.
+배신하다	저는 절대 당신을 배신하지 않을 거예요.	I will never betray you.
+안타깝다	그 소식을 들으니 정말 안타까워요.	I'm really sorry to hear that news.
+안타깝다	그렇게 좋은 기회를 놓쳐서 정말 안타까워요.	It's a real pity that you missed such a good chance.
+애쓰다	그는 가족을 위해 열심히 애썼어요.	He worked hard for his family.
+다가오다	시험 날짜가 점점 다가오고 있어요.	The exam date is getting closer and closer.
+내주다	친구에게 제 방을 내주고 저는 거실에서 잤어요.	I gave my room to my friend and slept in the living room.
+내주다	선생님이 학생들에게 숙제를 많이 내주셨어요.	The teacher gave the students a lot of homework.
+창피하다	사람들 앞에서 넘어져서 너무 창피했어요.	I fell over in front of people, so I was really embarrassed.
+알아듣다	그가 너무 빨리 말해서 알아듣지 못했어요.	He spoke so fast that I couldn't understand.
+무조건	무슨 일이 있어도 저는 무조건 당신 편이에요.	Whatever happens, I'm on your side no matter what.
+무조건	이 약은 무조건 밥을 먹고 드세요.	Always take this medicine after eating.
+작성하다	이 서류를 작성해서 내일까지 내세요.	Fill out this document and hand it in by tomorrow.
+작성하다	회의가 끝나고 저는 회의 자료를 작성했어요.	After the meeting I wrote up the meeting materials.
+신사	그 신사는 모든 사람에게 친절했어요.	That gentleman was kind to everyone.
+신사	그는 진짜 신사처럼 문을 열어 주었어요.	He opened the door like a real gentleman.
+의도	저는 나쁜 의도로 그런 말을 한 게 아니에요.	I didn't say that with bad intentions.
+의도	그 사람의 의도를 잘 모르겠어요.	I don't really know what that person intends.
+단체	우리 반은 봄에 단체로 여행을 갔어요.	Our class went on a group trip in spring.
+단체	그는 아이들을 돕는 단체에서 일해요.	He works for an organisation that helps children.
+연애	그 두 사람은 오랫동안 연애를 했어요.	Those two dated for a long time.
+연애	저는 요즘 연애보다 일이 더 중요해요.	These days work is more important to me than dating.
+틀림없다	그 사람이 거짓말을 한 것이 틀림없어요.	That person must have lied.
+시트	호텔 방의 침대 시트가 깨끗해요.	The bed sheets in the hotel room are clean.
+시트	저는 자동차 시트에 커피를 흘렸어요.	I spilled coffee on the car seat.
+테러	그 도시에서 테러가 일어나서 많은 사람이 다쳤어요.	A terrorist attack happened in that city and many people were hurt.
+테러	정부는 테러를 막으려고 노력하고 있어요.	The government is trying to prevent terrorism.
+속하다	이 섬은 우리 나라에 속해요.	This island belongs to our country.
+달라지다	그는 결혼 후에 많이 달라졌어요.	He has changed a lot since getting married.
+베개	저는 높은 베개를 좋아하지 않아요.	I don't like high pillows.
+공공	공공 장소에서는 조용히 해야 해요.	You have to be quiet in public places.
+공공	이 도서관은 누구나 쓸 수 있는 공공 도서관이에요.	This library is a public library anyone can use.
+조르다	아이가 빵을 사 달라고 엄마를 졸랐어요.	The child pestered his mother to buy bread.
+조르다	동생이 같이 놀자고 계속 졸라요.	My younger sibling keeps begging me to play together.
+나비	꽃 위에 예쁜 나비가 앉아 있어요.	A pretty butterfly is sitting on the flower.
+요구	오늘 온 손님들의 요구가 너무 많아요.	The customers who came today are making too many demands.
+요구	회사는 결국 직원들의 요구를 받아들였어요.	In the end the company accepted the employees' demands.
+갖추다	이 호텔은 모든 것을 잘 갖추고 있어요.	This hotel is well equipped with everything.
+갖추다	이 일을 하려면 경험을 갖추어야 해요.	To do this job you need to have experience.
+사용되다	이 방은 지금 회의를 하는 곳으로 사용되고 있어요.	This room is now being used as a place for meetings.
+사용되다	이 단어는 요즘 많이 사용되지 않아요.	This word isn't used much these days.
+먹이	아이가 아침마다 물고기에게 먹이를 주어요.	The child feeds the fish every morning.
+여우	숲에서 여우 한 마리를 봤어요.	I saw a fox in the forest.
+삶다	계란을 십 분 동안 삶았어요.	I boiled the eggs for ten minutes.
+삶다	엄마가 저녁으로 감자를 삶아 주셨어요.	Mom boiled potatoes for dinner.
+연료	우리 자동차에 연료가 거의 없어요.	Our car is almost out of fuel.
+연료	비행기는 연료를 아주 많이 써요.	Planes use a lot of fuel.
+최신	저는 최신 휴대폰을 사고 싶어요.	I want to buy the latest phone.
+의상	배우들이 멋진 의상을 입고 무대에 올라갔어요.	The actors went on stage in wonderful costumes.
+고급	그 호텔은 아주 고급이라서 비싸요.	That hotel is very high-end, so it's expensive.
+고급	우리는 특별한 날에 고급 식당에 갔어요.	We went to a fancy restaurant on a special day.
+전화기	옛날 전화기는 아주 크고 무거웠어요.	Old telephones were very big and heavy.
+전화기	전화기가 고장 나서 전화를 못 받았어요.	My phone was broken, so I couldn't answer.
+통화	어제 엄마와 긴 통화를 했어요.	I had a long phone call with Mom yesterday.
+과제	이번 주까지 내야 할 과제가 많아요.	I have a lot of assignments due this week.
+과제	이 과제는 혼자 하기 어려워요.	This assignment is hard to do alone.
+고민하다	저는 어떤 대학교에 갈지 고민하고 있어요.	I'm thinking hard about which university to go to.
+수면	건강을 위해서는 충분한 수면이 필요해요.	You need enough sleep to be healthy.
+수면	요즘 스트레스 때문에 수면 문제가 있어요.	These days I have sleep problems because of stress.
+질리다	같은 음식을 매일 먹어서 질렸어요.	I've eaten the same food every day, so I'm sick of it.
+나아지다	약을 먹고 나서 몸이 많이 나아졌어요.	After taking the medicine I felt a lot better.
+나아지다	제 한국어 실력이 매일 나아지고 있어요.	My Korean is getting better every day.
+매니저	그 가수의 매니저가 전화를 받았어요.	That singer's manager answered the phone.
+비명	갑자기 밖에서 비명 소리가 들렸어요.	Suddenly a scream was heard outside.
+깎다	엄마가 사과를 깎아서 아이에게 주었어요.	Mom peeled an apple and gave it to the child.
+깎다	시장에서 가격을 조금 깎아 달라고 했어요.	I asked for a small discount at the market.
+거짓	그가 한 말은 모두 거짓이었어요.	Everything he said was false.
+거짓	거짓으로 말하면 나중에 문제가 생겨요.	If you say things that are untrue, problems come up later.
+광장	주말에 많은 사람들이 광장에 모였어요.	Many people gathered in the square at the weekend.
+광장	도시 중앙에 큰 광장이 있어요.	There's a big square in the centre of the city.
+무덤	우리는 할아버지 무덤에 꽃을 놓았어요.	We laid flowers on my grandfather's grave.
+무덤	그 왕의 무덤은 아주 커요.	That king's tomb is very big.
+범위	이번 시험의 범위가 너무 넓어요.	The material covered on this exam is too broad.
+범위	제 능력의 범위 안에서 도와줄게요.	I'll help within the limits of what I can do.
+설정	저는 휴대폰의 언어 설정을 바꿨어요.	I changed the language setting on my phone.
+설정	이 게임은 설정이 아주 복잡해요.	This game's settings are very complicated.
+이빨	우리 강아지가 이빨로 제 신발을 물었어요.	Our puppy bit my shoe with its teeth.
+절	저는 새로운 해에 할머니께 절을 했어요.	I bowed to my grandmother for the new year.
+안녕	아이가 친구에게 손을 흔들며 "안녕!" 하고 말했어요.	The child waved to a friend and said "Bye!"
+베다	요리를 하다가 칼에 손가락을 조금 베었어요.	I cut my finger a little on a knife while cooking.
+끌다	그 가수의 새 노래가 많은 관심을 끌었어요.	That singer's new song attracted a lot of attention.
+자살	자살은 우리 사회의 큰 문제 중 하나예요.	Suicide is one of the big problems in our society.
+안녕히	먼 길을 오신 손님들이 모두 안녕히 돌아가셨어요.	All the guests who had come a long way went home safely.
+안녕히	손님들이 모두 안녕히 돌아가셨어요.	All the guests went home safely.
+토끼	우리 아이는 집에서 작은 토끼를 키우고 있어요.	Our child keeps a small rabbit at home.
+자꾸	동생이 자꾸 제 방에 들어와서 귀찮아요.	My younger sibling keeps coming into my room, which is annoying.
+만들어지다	이 다리는 백 년 전에 만들어졌어요.	This bridge was built a hundred years ago.
+만족하다	저는 지금 제 생활에 아주 만족해요.	I'm very satisfied with my life right now.
+만족하다	손님들이 음식 맛에 모두 만족했어요.	The guests were all satisfied with the taste of the food.
+짓다	아버지가 시골에 작은 집을 지었어요.	My father built a small house in the countryside.
+요구하다	손님이 가게 주인에게 돈을 다시 달라고 요구했어요.	The customer demanded the money back from the shop owner.
+표현	이 표현은 한국 사람들이 자주 써요.	Koreans often use this expression.
+보호	아이들의 보호를 위해 학교 앞에서 천천히 운전하세요.	Drive slowly in front of schools to protect children.
+보호	이 숲은 정부의 보호를 받고 있어요.	This forest is under government protection.
+가득하다	날씨가 좋은 주말에 공원은 사람들로 가득해요.	The park is full of people at the weekend.
+현금	요즘은 현금보다 카드를 더 많이 써요.	These days people use cards more than cash.
+단순하다	그 문제는 생각보다 단순하지 않아요.	That problem isn't as simple as you think.
+가리다	그는 부끄러워서 손으로 얼굴을 가렸어요.	He covered his face with his hands in embarrassment.
+가리다	우리 아이는 음식을 너무 가려서 걱정이에요.	Our child is so picky about food that I'm worried.
+닥치다	큰 문제가 닥쳐도 우리는 함께 이겨낼 거예요.	Even if big problems come, we'll overcome them together.
+헤어지다	우리는 공항에서 서로 울면서 헤어졌어요.	We parted at the airport, both of us in tears.
+계산	이 계산이 맞는지 다시 확인해 주세요.	Please check again whether this calculation is right.
+더하다	두 숫자를 더하면 얼마가 되는지 말해 보세요.	Tell me what you get if you add the two numbers.
+조르다	아이들이 공원에 가자고 아빠를 졸랐어요.	The children begged their dad to go to the park.
+한잔	일이 끝나고 친구와 커피 한잔을 마셨어요.	After work I had a cup of coffee with a friend.
+폭탄	옛날 전쟁 때 이 도시에 폭탄이 떨어졌어요.	Bombs fell on this city during the war long ago.
+디저트	저녁을 먹고 디저트로 아이스크림을 먹었어요.	After dinner we had ice cream for dessert.
+디저트	이 식당은 디저트가 정말 맛있어요.	The desserts at this restaurant are really delicious.
+혼란스럽다	갑자기 계획이 바뀌어서 모두 혼란스러워요.	The plan changed suddenly, so everyone is confused.
+사이트	이 사이트에서 표를 싸게 살 수 있어요.	You can buy tickets cheaply on this site.
+색깔	저는 이 가방의 색깔이 마음에 들어요.	I like the colour of this bag.
+서쪽	해가 서쪽으로 지고 있어서 하늘이 붉어요.	The sun is setting in the west, so the sky is red.
+블로그	저는 매주 여행 이야기를 블로그에 써요.	I write about my travels on my blog every week.
+블로그	친구의 블로그에서 좋은 식당을 찾았어요.	I found a good restaurant on my friend's blog.
+관	사람들이 조용히 관을 들고 교회 밖으로 나갔어요.	People quietly carried the coffin out of the church.
+연습하다	저는 매일 한 시간씩 피아노를 연습해요.	I practise the piano for an hour every day.
+로맨틱하다	그는 생일에 아주 로맨틱한 편지를 써 주었어요.	He wrote me a very romantic letter for my birthday.
+유용하다	이 책은 한국어를 배울 때 아주 유용해요.	This book is very useful when you learn Korean.
+소원	생일 케이크 앞에서 소원을 빌었어요.	I made a wish in front of the birthday cake.
+무례하다	그 사람은 우리에게 아주 무례하게 말했어요.	That person spoke very rudely to us.
+안타깝다	그 선수가 다쳐서 경기에 못 나와서 안타까워요.	It's a pity that player got hurt and can't play in the match.
+미소	그녀의 밝은 미소를 보면 기분이 좋아져요.	Seeing her bright smile puts me in a good mood.
+부족	요즘 돈이 부족해서 밖에서 밥을 안 먹어요.	I'm short of money these days, so I don't eat out.
+소스	이 고기는 소스와 같이 먹으면 더 맛있어요.	This meat tastes better if you eat it with the sauce.
+두통	컴퓨터를 오래 보면 두통이 생겨요.	If I look at the computer for a long time, I get a headache.
+빛나다	오늘 밤에는 하늘에 별이 밝게 빛나고 있어요.	Tonight the stars are shining brightly in the sky.
+대처	그의 빠른 대처 덕분에 큰 사고를 막았어요.	Thanks to his quick response, a big accident was prevented.
+그거	그거 제가 어제 잃어버린 가방이에요.	That's the bag I lost yesterday.
+그거	죄송하지만 그거 하나만 더 주시겠어요?	Excuse me, could you give me one more of those?
+비명	아이가 큰 개를 보고 비명을 질렀어요.	The child screamed when he saw the big dog.
+실망시키다	저는 우리 가족을 실망시키고 싶지 않아요.	I don't want to disappoint my family.
+임신하다	언니가 임신해서 우리 가족 모두 아주 행복해요.	My older sister is pregnant, so our whole family is very happy.
+임신하다	임신한 사람에게 버스 자리를 주세요.	Give your bus seat to pregnant people.
+도구	이 일을 하려면 좋은 도구가 필요해요.	You need good tools to do this job.
+도구	아버지는 도구로 부서진 의자를 고쳤어요.	Father fixed the broken chair with his tools.
+저쪽	화장실은 저쪽으로 가면 오른쪽에 있어요.	If you go that way, the bathroom is on the right.
+평가	이번 시험은 학생들의 실력 평가를 위한 거예요.	This exam is for assessing the students' ability.
+평가	그 식당은 사람들에게 좋은 평가를 받았어요.	That restaurant got good reviews from people.
+수단	지하철은 이 도시에서 가장 편한 이동 수단이에요.	The subway is the most convenient way of getting around this city.
+수단	돈은 목적이 아니라 수단일 뿐이에요.	Money is only a means, not an end.
+닥치다	겨울이 닥치기 전에 따뜻한 옷을 사야 해요.	I have to buy warm clothes before winter comes.
+이동	공항까지 이동 시간이 한 시간 넘게 걸려요.	The journey to the airport takes over an hour.
+이동	교실 이동은 쉬는 시간에 빨리 하세요.	Change classrooms quickly during the break.
+유감	그 소식을 들으니 정말 유감이에요.	I'm really sorry to hear that news.
+유감	저는 그 사람의 행동에 대해 유감을 느껴요.	I feel regret about that person's behaviour.
+고장나다	제 컴퓨터가 갑자기 고장나서 일을 못 했어요.	My computer suddenly broke down, so I couldn't work.
+고장나다	집에 있는 냉장고가 고장나서 음식이 다 상했어요.	The fridge at home broke down, so all the food went bad.
+동영상	저는 매일 밤 요리 동영상을 봐요.	I watch cooking videos every night.
+동영상	친구가 여행에서 찍은 동영상을 보내 줬어요.	My friend sent me a video they took on their trip.
+부족	이 회사는 일할 사람의 부족 문제가 심각해요.	This company has a serious shortage of workers.
+질리다	같은 노래를 너무 많이 들어서 이제 질렸어요.	I've listened to the same song too many times, so I'm sick of it now.
+불타다	어젯밤에 우리 마을의 오래된 집이 불탔어요.	An old house in our village burned down last night.
+불타다	숲이 불타고 있어서 사람들이 모두 도망갔어요.	The forest was burning, so everyone fled.
+교사	제 꿈은 아이들을 가르치는 교사가 되는 거예요.	My dream is to become a teacher who teaches children.
+줄다	요즘 일이 많이 줄어서 시간이 있어요.	My work has decreased a lot lately, so I have time.
+줄다	이 마을에 사는 사람이 계속 줄고 있어요.	The number of people living in this village keeps falling.
+우연히	어제 시내에서 옛 친구를 우연히 만났어요.	Yesterday I ran into an old friend downtown by chance.
+우연히	인터넷에서 우연히 그 노래를 듣고 좋아하게 되었어요.	I heard that song on the internet by chance and came to like it.
+그러니까	비가 와요. 그러니까 우산을 가져가세요.	It's raining. So take an umbrella.
+그러니까	내일 시험이 있어요. 그러니까 오늘은 일찍 자요.	I have an exam tomorrow. So I'm going to bed early today.
+훔치다	어떤 사람이 지하철에서 제 지갑을 훔쳤어요.	Someone stole my wallet on the subway.
+실제	그 배우는 실제로 보면 훨씬 더 키가 커요.	That actor is much taller in real life.
+실제	영화와 실제 이야기는 많이 달라요.	The film and the real story are very different.
+헤어지다	우리는 오랜 시간 사귀었지만 결국 헤어졌어요.	We went out for a long time, but in the end we broke up.
+제외하다	저를 제외하고 모두 파티에 갔어요.	Everyone except me went to the party.
+나아가다	작은 배가 바다 쪽으로 천천히 나아가고 있어요.	A small boat is slowly moving out towards the sea.
+국경	우리는 기차를 타고 국경을 넘어 다른 나라로 갔어요.	We took a train across the border to another country.
+소원	제 가장 큰 소원은 세계 여행을 하는 거예요.	My biggest wish is to travel around the world.
+창피하다	수업 시간에 크게 넘어져서 정말 창피했어요.	I fell over badly in class, so I was really embarrassed.
+실제	이 그림은 실제와 아주 비슷해요.	This painting looks very much like the real thing.
+만족하다	우리 가족은 새 집에 아주 만족해요.	Our family is very happy with the new house.
+만족하다	저는 이번 시험 결과에 만족하지 않아요.	I'm not satisfied with this exam result.
+나서다	아침 일찍 집을 나서서 회사에 갔어요.	I left home early in the morning and went to work.
+나서다	아무도 도와주지 않아서 제가 직접 나섰어요.	Nobody helped, so I stepped in myself.
+구경	주말에 친구와 시장 구경을 갔어요.	At the weekend I went to look around the market with a friend.
+구경	저는 사람 구경을 정말 좋아해요.	I really love watching people.
+샤워	운동이 끝나고 바로 샤워를 했어요.	I took a shower right after my workout.
+샤워	아침마다 따뜻한 물로 샤워를 해요.	Every morning I shower with warm water.
+규칙	우리 학교에는 규칙이 아주 많아요.	Our school has a lot of rules.
+규칙	모든 사람이 이 규칙을 꼭 지켜야 해요.	Everyone has to follow this rule.
+칠:num	저희 사무실은 칠 층에 있어요.	Our office is on the seventh floor.
+칠:num	저는 서울에서 칠 년 동안 살았어요.	I lived in Seoul for seven years.
+이:num	저는 이 년 전에 한국에 왔어요.	I came to Korea two years ago.
+이:num	우리 집은 이 층에 있어요.	Our home is on the second floor.
+죽다	우리 집 개가 어제 죽었어요.	Our dog died yesterday.
+죽다	그 나무는 겨울에 죽었어요.	That tree died in the winter.
+번	저는 그 영화를 두 번 봤어요.	I watched that movie twice.
+입다	오늘은 따뜻한 옷을 입으세요.	Wear warm clothes today.
+그런	저는 그런 말을 안 했어요.	I didn't say anything like that.
+그런	그런 사람은 정말 없어요.	There really isn't a person like that.
+그냥	그냥 집에 있고 싶어요.	I just want to stay at home.
+그냥	괜찮아요, 그냥 물 주세요.	It's fine, just give me water.
+안되다	오늘은 일이 잘 안돼요.	Work isn't going well today.
+안되다	시험이 너무 어려워서 잘 안됐어요.	The exam was too hard, so it didn't go well.
+이런	이런 날씨에는 집에 있어요.	In weather like this I stay at home.
+잡다	경찰이 그 남자를 잡았어요.	The police caught that man.
+계속	비가 계속 와요.	It keeps raining.
+계속	그는 계속 웃어요.	He keeps laughing.
+치다	아빠는 주말마다 공을 쳐요.	Dad hits balls every weekend.
+치다	누나는 공을 정말 잘 쳐요.	My older sister hits the ball really well.
+눈	아기의 눈이 정말 예뻐요.	The baby's eyes are really pretty.
+눈	저는 눈이 아파요.	My eyes hurt.
+게임	동생은 컴퓨터 게임을 좋아해요.	My younger sibling likes computer games.
+고맙다	도와줘서 정말 고마워요.	Thank you so much for helping.
+고맙다	선물을 받아서 너무 고마워요.	I'm so grateful for the present.
+이번	이번 주말에 뭐 해요?	What are you doing this weekend?
+잘하다	제 친구는 요리를 잘해요.	My friend is good at cooking.
+미안하다	미안해요, 저는 몰랐어요.	Sorry, I didn't know.
+미안하다	정말 미안해요, 제가 잊었어요.	I'm really sorry, I forgot.
+속	가방 속에 책이 있어요.	There's a book in the bag.
+속	바다 속에 동물이 많아요.	There are many animals in the sea.
+꿈	제 친구의 꿈은 가수예요.	My friend's dream is to be a singer.
+꿈	제 꿈은 의사가 되는 거예요.	My dream is to become a doctor.
+아빠	아빠는 지금 회사에 있어요.	Dad is at the office now.
+어서	어서 집에 오세요.	Come home quickly.
+몸	요즘 몸이 좀 아파요.	These days I don't feel well.
+사용하다	이 컴퓨터를 사용해도 돼요?	May I use this computer?
+처음	저는 한국이 처음이에요.	This is my first time in Korea.
+끝	영화의 끝이 정말 좋았어요.	The end of the movie was really good.
+뒤	학교 뒤에 공원이 있어요.	There's a park behind the school.
+뒤	제 뒤에 누가 있어요?	Who is behind me?
+생기다	저한테 문제가 생겼어요.	A problem has come up for me.
+힘들다	오늘 일이 너무 힘들어요.	Work was really hard today.
+마지막	오늘이 마지막 수업이에요.	Today is the last class.
+마지막	마지막 버스가 몇 시에 있어요?	What time is the last bus?
+형	제 형은 의사예요.	My older brother is a doctor.
+놓다	책을 침대 위에 놓으세요.	Put the book on the bed.
+놓다	가방을 여기에 놓았어요.	I put the bag here.
+아들	그분의 아들은 학생이에요.	His son is a student.
+입	입을 크게 열어 보세요.	Open your mouth wide.
+얼굴	아기 얼굴이 너무 예뻐요.	The baby's face is so pretty.
+팀	우리 팀이 제일 좋아요.	Our team is the best.
+팀	어느 팀을 좋아해요?	Which team do you like?
+주	다음 주에 시험이 있어요.	There's an exam next week.
+옷	새 옷을 샀어요.	I bought new clothes.
+적다	이 식당은 음식이 적어요.	This restaurant gives small portions.
+이렇다	요즘 날씨가 이래요.	The weather is like this these days.
+꼭	내일 꼭 오세요.	Please be sure to come tomorrow.
+꼭	저는 꼭 한국에 가고 싶어요.	I really want to go to Korea.
+안녕	안녕, 내일 학교에서 봐요!	Bye, see you at school tomorrow!
+안녕	안녕, 오늘 기분이 어때요?	Hi, how are you feeling today?
+길다	이 영화는 너무 길어요.	This movie is too long.
+오	지금은 오 시 오 분이에요.	It's five past five now.
+먼저	제가 먼저 갈게요.	I'll go first.
+싸우다	동생과 자주 싸워요.	I often fight with my younger sibling.
+커피	아침마다 커피를 마셔요.	I drink coffee every morning.
+나쁘다	오늘 날씨가 나빠요.	The weather is bad today.
+저것	저것은 제 가방이에요.	That is my bag.
+나중	나중에 제가 전화할게요.	I'll call you later.
+나이	할머니의 나이가 어떻게 되세요?	How old is your grandmother?
+파티	내일 친구 집에서 파티가 있어요.	There's a party at my friend's house tomorrow.
+파티	생일 파티에 오세요.	Come to my birthday party.
+저기	저기에 은행이 있어요.	There's a bank over there.
+불	방에 불을 끄세요.	Turn off the light in the room.
+오래	친구를 오래 기다렸어요.	I waited a long time for my friend.
+벌써	벌써 밤 열 시예요.	It's already ten at night.
+벌써	친구가 벌써 도착했어요.	My friend has already arrived.
+별	오늘 밤 하늘에 별이 많아요.	There are many stars in the sky tonight.
+별	저는 별을 보는 것을 좋아해요.	I like looking at the stars.
+여러	여러 나라에 가 봤어요.	I have been to several countries.
+여러	가게에 여러 물건이 있어요.	The shop has various things.
+쪽	책의 다음 쪽을 읽으세요.	Read the next page of the book.
+쪽	은행은 어느 쪽에 있어요?	Which way is the bank?
+나무	공원에 나무가 많아요.	There are many trees in the park.
+나무	집 앞에 큰 나무가 있어요.	There's a big tree in front of the house.
+걸다	친구에게 전화를 걸었어요.	I called my friend.
+묻다	선생님께 질문을 물었어요.	I asked the teacher a question.
+묻다	길을 물어도 돼요?	May I ask for directions?
+하늘	오늘 하늘이 정말 아름다워요.	The sky is really beautiful today.
+하늘	하늘에 비행기가 있어요.	There's a plane in the sky.
+내다	오늘은 제가 돈을 낼게요.	I'll pay today.
+위험하다	밤에 혼자 가면 위험해요.	It's dangerous to go alone at night.
+위험하다	이 길은 너무 위험해요.	This road is too dangerous.
+걱정	엄마는 제 걱정을 많이 해요.	Mom worries about me a lot.
+장	사진 한 장 주세요.	Please give me one photo.
+바람	오늘은 바람이 정말 많아요.	It's really windy today.
+바람	창문을 열면 바람이 들어와요.	If you open the window, the wind comes in.
+아래	침대 아래에 고양이가 있어요.	There's a cat under the bed.
+아래	아래 사진을 보세요.	Look at the photo below.
+가끔	가끔 친구와 영화를 봐요.	Sometimes I watch movies with friends.
+가끔	저는 가끔 커피를 마셔요.	I drink coffee sometimes.
+밥	같이 밥을 먹어요.	Let's eat together.
+그림	이 그림은 정말 아름다워요.	This painting is really beautiful.
+그림	동생이 그림을 그렸어요.	My younger sibling drew a picture.
+환자	병원에 환자가 많아요.	There are many patients at the hospital.
+여름	여름에는 날씨가 더워요.	The weather is hot in summer.
+끝내다	일을 빨리 끝내고 싶어요.	I want to finish the work quickly.
+끝내다	일을 벌써 끝냈어요?	Have you already finished the work?
+유일하다	그분은 제 유일한 친구예요.	He is my only friend.
+놀라다	그 이야기를 듣고 놀랐어요.	I was surprised to hear that story.
+결혼	두 사람은 결혼을 했어요.	The two of them got married.
+그리다	저는 그림을 그리는 것을 좋아해요.	I like drawing pictures.
+그러나	비가 와요. 그러나 저는 나갈 거예요.	It's raining. But I'm going out.
+역사	저는 한국 역사를 좋아해요.	I like Korean history.
+역사	이 도시의 역사는 아주 길어요.	This city's history is very long.
+감사하다	저를 도와주셔서 정말 감사해요.	Thank you so much for helping me.
+칼	이 칼은 너무 위험해요.	This knife is too dangerous.
+칼	이 칼은 아주 좋아요.	This knife is very good.
+잠깐	잠깐만 기다려 주세요.	Please wait just a moment.
+잠깐	잠깐만 여기 있어 주세요.	Please stay here for a moment.
+넷	우리 가족은 모두 넷이 있어요.	There are four of us in our family.
+넷	사과가 넷 있어요.	There are four apples.
+건물	저 건물은 정말 높아요.	That building is really tall.
+진정하다	모두 진정하세요, 괜찮아요.	Everyone calm down, it's okay.
+진정하다	여기 앉아서 진정하세요.	Sit here and calm down.
+시작되다	수업이 곧 시작돼요.	The class starts soon.
+강	이 강은 아주 길어요.	This river is very long.
+아무	아무 때나 오세요.	Come any time.
+준비하다	저는 파티를 준비하고 있어요.	I'm preparing for the party.
+끄다	나갈 때 불을 끄세요.	Turn off the light when you go out.
+끄다	컴퓨터를 끄고 자요.	I turn off the computer and go to sleep.
+공	아이가 공을 가지고 놀아요.	The child is playing with a ball.
+공	공원에서 아이들이 공을 가지고 놀아요.	Children are playing with a ball in the park.
+카드	카드로 돈을 내도 돼요?	May I pay by card?
+카드	친구에게 생일 카드를 보냈어요.	I sent my friend a birthday card.
+오르다	산에 오르는 것은 힘들어요.	Climbing a mountain is hard.
+식사	식사 맛있게 하세요.	Enjoy your meal.
+그래서	비가 왔어요. 그래서 집에 있었어요.	It rained. So I stayed home.
+그래서	배가 아팠어요. 그래서 병원에 갔어요.	My stomach hurt. So I went to the hospital.
+다리	다리가 너무 아파요.	My legs really hurt.
+담배	여기에서 담배는 안 돼요.	No smoking here.
+담배	담배는 몸에 나빠요.	Cigarettes are bad for your body.
+코	아기의 코가 작아요.	The baby's nose is small.
+코	제 코가 너무 아파요.	My nose really hurts.
+유명하다	그 가수는 정말 유명해요.	That singer is really famous.
+유명하다	이 식당은 아주 유명해요.	This restaurant is very famous.
+멀다	학교가 집에서 멀어요.	The school is far from my house.
+목	오늘 목이 너무 아파요.	My throat really hurts today.
+그러니까	늦었어요. 그러니까 빨리 가세요.	It's late. So go quickly.
+시장	엄마와 시장에 갔어요.	I went to the market with my mom.
+시장	시장에서 고기를 샀어요.	I bought meat at the market.
+해	아침에 해가 나왔어요.	The sun came out in the morning.
+해	새 해가 곧 시작돼요.	The new year starts soon.
+달러	이 가방은 십 달러예요.	This bag is ten dollars.
+밑	침대 밑에 고양이가 있어요.	There's a cat under the bed.
+행성	그 행성은 정말 멀어요.	That planet is really far away.
+행성	하늘에 작은 행성이 있어요.	There's a small planet in the sky.
+추다	누나는 노래를 부르고 춤을 췄어요.	My older sister sang and danced.
+똑같다	두 사람의 얼굴이 똑같아요.	The two people have the same face.
+낮다	이 산은 아주 낮아요.	This mountain is very low.
+낮다	이 건물은 너무 낮아요.	This building is too low.
+대답하다	질문에 대답해 주세요.	Please answer the question.
+부모	제 부모는 서울에 살아요.	My parents live in Seoul.
+신발	새 신발을 샀어요.	I bought new shoes.
+가져오다	내일 사진을 가져오세요.	Bring the photos tomorrow.
+오빠	제 오빠는 회사에 다녀요.	My older brother works at a company.
+오빠	오빠가 저를 많이 도와줘요.	My older brother helps me a lot.
+장소	이 장소는 정말 아름다워요.	This place is really beautiful.
+장소	만날 장소가 어디예요?	Where is the meeting place?
+친절하다	그 선생님은 아주 친절해요.	That teacher is very kind.
+언제나	엄마는 언제나 바빠요.	Mom is always busy.
+색	어떤 색을 좋아해요?	What colour do you like?
+색	이 옷은 색이 예뻐요.	The colour of these clothes is pretty.
+저런	저런 사람은 정말 싫어요.	I really dislike people like that.
+저런	저는 저런 옷을 좋아해요.	I like clothes like that.
+핸드폰	제 핸드폰이 어디 있어요?	Where is my mobile phone?
+핸드폰	새 핸드폰을 사고 싶어요.	I want to buy a new mobile phone.
+월요일	월요일에 학교에 가요.	I go to school on Monday.
+토요일	토요일에 친구를 만나요.	I meet my friend on Saturday.
+금요일	금요일 저녁에 영화를 봐요.	I watch a movie on Friday evening.
+금요일	이번 금요일에 파티가 있어요.	There's a party this Friday.
+열	우리 반에는 학생이 열 명 있어요.	There are ten students in our class.
+열	저는 밤 열 시에 자요.	I go to sleep at ten at night.
+파란색	저는 파란색을 제일 좋아해요.	I like blue the most.
+파란색	파란색 가방을 샀어요.	I bought a blue bag.
+빨간색	빨간색 옷이 예뻐요.	The red clothes are pretty.
+빨간색	누나는 빨간색을 좋아해요.	My older sister likes red.
+영	동생은 시험에서 영 점을 받았어요.	My younger sibling got zero points on the exam.
+영	밖은 지금 영 도예요.	It is zero degrees outside now.
+흰색	흰색 신발을 샀어요.	I bought white shoes.
+흰색	이 집은 흰색이에요.	This house is white.
+초록색	초록색 모자가 예뻐요.	The green hat is pretty.
+초록색	초록색 모자를 샀어요.	I bought a green hat.
+목요일	목요일에 시험이 있어요.	There's an exam on Thursday.
+목요일	목요일 오후에 시간이 있어요.	I have time on Thursday afternoon.
+수요일	수요일에 병원에 가요.	I go to the hospital on Wednesday.
+수요일	수요일 아침에 회의가 있어요.	There's a meeting on Wednesday morning.
+-씩	사과를 하나씩 주세요.	Please give one apple each.
+화요일	화요일에 친구가 와요.	My friend comes on Tuesday.
+천	이 책은 천 원이에요.	This book is a thousand won.
+구	우리 집은 구 층에 있어요.	Our home is on the ninth floor.
+검은색	검은색 가방이 제 것이에요.	The black bag is mine.
+검은색	저는 검은색 옷을 자주 입어요.	I often wear black clothes.
+노란색	노란색 꽃이 예뻐요.	The yellow flowers are pretty.
+스물	제 동생은 스무 살이에요.	My younger sibling is twenty years old.
+서른	저는 서른 살이에요.	I am thirty years old.
+서른	우리 반에는 학생이 서른 명 있어요.	There are thirty students in our class.
+칠	저는 칠 층에 살아요.	I live on the seventh floor.
+사월	사월에는 꽃이 많아요.	There are many flowers in April.
+마흔	아버지는 마흔 살이에요.	My father is forty years old.
+고맙습니다	선물 정말 고맙습니다.	Thank you so much for the present.
+네	네, 저는 학생이에요.	Yes, I'm a student.
+만	이 가방은 만 원이에요.	This bag is ten thousand won.
+만	저는 만 원이 있어요.	I have ten thousand won.
+부모님	부모님께 전화를 했어요.	I called my parents.
+부모님	제 부모님은 서울에 사세요.	My parents live in Seoul.
+쉰	어머니는 쉰 살이에요.	My mother is fifty years old.
+쉰	선생님은 쉰 살이 되셨어요.	The teacher has turned fifty.
+시월	시월에 한국에 가요.	I'm going to Korea in October.
+시월	제 생일은 시월이에요.	My birthday is in October.
+아흔	할머니는 아흔 살이에요.	My grandmother is ninety years old.
+아흔	우리 할아버지는 아흔 살이에요.	Our grandfather is ninety years old.
+안녕히 가세요	안녕히 가세요, 내일 또 봐요.	Goodbye, see you again tomorrow.
+여든	할아버지는 여든 살이세요.	My grandfather is eighty years old.
+여든	그 할머니는 여든 살이에요.	That grandmother is eighty years old.
+예순	아버지는 예순 살이에요.	My father is sixty years old.
+예순	그 선생님은 예순 살이에요.	That teacher is sixty years old.
+일흔	할머니는 일흔 살이에요.	My grandmother is seventy years old.
+일흔	할아버지는 일흔 살이 되셨어요.	My grandfather has turned seventy.
+잘 먹겠습니다	엄마, 잘 먹겠습니다.	Mom, thank you for the meal.
+잘 먹겠습니다	할머니, 잘 먹겠습니다!	Grandma, thank you for the meal!
+잘 먹었습니다	정말 잘 먹었습니다.	Thank you, that was a lovely meal.
+잘 먹었습니다	어머니, 잘 먹었습니다.	Mother, thank you for the meal.
+처음 뵙겠습니다	처음 뵙겠습니다, 저는 학생이에요.	How do you do, I'm a student.
+처음 뵙겠습니다	안녕하세요, 처음 뵙겠습니다.	Hello, how do you do.
+팔월	팔월에는 날씨가 더워요.	The weather is hot in August.
+일	저는 일 년 동안 여행을 했어요.	I travelled for one year.
+일	우리 집은 일 층에 있어요.	Our home is on the first floor.
+가깝다	학교가 집에서 가까워요.	The school is close to my house.
+짧다	이 영화는 아주 짧아요.	This movie is very short.
+짧다	제 머리는 짧아요.	My hair is short.
+전쟁	그 나라는 오랫동안 전쟁을 했어요.	That country was at war for a long time.
+죽음	할아버지의 죽음 때문에 가족이 많이 울었어요.	The family cried a lot because of grandfather's death.
+감정	그 사람은 감정을 얼굴에 잘 보여요.	That person shows their feelings on their face easily.
+심각하다	문제가 생각보다 심각해요.	The problem is more serious than I thought.
+성공	모두 성공을 축하했어요.	Everyone celebrated the success.
+전기	전기가 갑자기 나갔어요.	The electricity suddenly went out.
+물다	그 개가 제 손을 물었어요.	That dog bit my hand.
+처하다	그 가족은 큰 위험에 처했어요.	That family was in great danger.
+닦다	창문을 깨끗하게 닦았어요.	I wiped the window clean.
+밝다	이 방은 밝고 따뜻해요.	This room is bright and warm.
+노랗다	공원에 노란 꽃이 많아요.	There are many yellow flowers in the park.
+이러다	계속 이러면 우리 모두 늦을 거예요.	If you keep doing this, we'll all be late.
+이러다	이러지 말고 우리 같이 이야기해요.	Don't act like this, let's talk together.
+주제	오늘 회의의 주제는 새 계획이에요.	The topic of today's meeting is the new plan.
+주제	이 책의 주제는 가족의 사랑이에요.	The theme of this book is family love.
+그립다	외국에 살아서 가족이 많이 그리워요.	I live abroad, so I miss my family a lot.
+일으키다	작은 실수가 큰 문제를 일으켰어요.	A small mistake caused a big problem.
+일으키다	그 뉴스가 사람들 사이에 혼란을 일으켰어요.	That news caused confusion among people.
+센터	주말마다 센터에서 친구와 운동을 해요.	Every weekend I exercise with a friend at the centre.
+광고	요즘 텔레비전에 광고가 너무 많아요.	There are too many ads on television these days.
+광고	그 회사는 새 제품 광고를 크게 했어요.	That company advertised its new product heavily.
+가만히	아이가 의자에 가만히 앉아 있었어요.	The child sat still on the chair.
+신호	빨간 신호에서는 모든 차가 서야 해요.	At a red light every car has to stop.
+암	할아버지는 암 때문에 병원에 계세요.	My grandfather is in hospital because of cancer.
+정리하다	주말에 제 방을 깨끗하게 정리했어요.	I tidied my room neatly at the weekend.
+정리하다	회의가 끝나고 중요한 내용을 정리했어요.	After the meeting I organised the important points.
+밟다	지하철에서 누가 제 발을 밟았어요.	Someone stepped on my foot on the subway.
+진행	이번 일의 진행 상황을 자주 확인해요.	I check the progress of this work often.
+진행	회의 진행이 늦어서 모두 많이 피곤했어요.	The meeting ran late, so everyone was very tired.
+천국	이 섬은 정말 천국 같은 곳이에요.	This island is a place just like paradise.
+즉시	문제가 생기면 즉시 저에게 연락하세요.	If a problem comes up, contact me immediately.
+진행하다	오늘 회의는 제가 진행할 거예요.	I will run today's meeting.
+망치다	비 때문에 우리 여행을 다 망쳤어요.	The rain ruined our whole trip.
+제외하다	그 사람을 제외하고 모두 회의에 왔어요.	Everyone came to the meeting except that person.
+통과하다	저는 어려운 시험을 드디어 통과했어요.	I finally passed the difficult exam.
+듯하다	오늘 밤에 비가 올 듯해요.	It looks like it will rain tonight.
+침실	우리 집에는 침실이 두 개 있어요.	Our house has two bedrooms.
+초대	친구의 결혼식 초대를 받아서 정말 기뻐요.	I'm really happy to be invited to my friend's wedding.
+노예	옛날에는 많은 사람들이 노예로 살았어요.	In the past many people lived as slaves.
+노예	그 영화는 노예의 삶에 대한 이야기예요.	That movie is a story about the life of slaves.
+기대	저는 이번 여행에 대한 기대가 커요.	I have high expectations for this trip.
+저렇다	저 사람은 왜 저렇게 화가 났어요?	Why is that person so angry like that?
+물리다	어제 공원에서 큰 개에게 다리를 물렸어요.	Yesterday I was bitten on the leg by a big dog in the park.
+콩	저는 밥에 콩을 넣어서 먹는 것을 좋아해요.	I like eating rice with beans in it.
+예약하다	식당에 저녁 일곱 시로 예약했어요.	I made a reservation at the restaurant for seven in the evening.
+틀다	동생이 음악을 너무 크게 틀어서 시끄러워요.	My younger sibling plays music too loud, so it's noisy.
+전공	제 친구의 대학교 전공은 영어예요.	My friend's major at university is English.
+전공	친구는 전공을 바꾸고 싶어 해요.	My friend wants to change majors.
+침착하다	위험한 상황에서도 그는 아주 침착했어요.	Even in a dangerous situation he was very calm.
+정리	회의 전에 자료 정리를 끝냈어요.	I finished organising the materials before the meeting.
+정리	방 정리는 생각보다 시간이 많이 걸려요.	Tidying the room takes more time than you'd think.
+죽다	그 영화에서 개가 죽어요.	The dog dies in that movie.
+죽다	꽃이 물이 없어서 죽었어요.	The flowers died because they had no water.
+잡다	아이가 제 손을 잡았어요.	The child held my hand.
+꿈	저는 매일 밤 꿈을 봐요.	I have dreams every night.
+커피	커피 한 잔 주세요.	One coffee, please.
+나쁘다	그 사람은 나쁜 사람이 아니에요.	That person is not a bad person.
+그리고	저는 영어를 공부해요. 그리고 한국어도 공부해요.	I study English. And I study Korean too.
+가끔	저는 가끔 할머니 집에 가요.	I sometimes go to my grandmother's house.
+칼	칼이 어디에 있어요?	Where is the knife?
+칼	식당에 칼이 없어요.	There's no knife at the restaurant.
+잠깐	잠깐만 여기서 기다리세요.	Wait here for just a moment.
+셋	우리는 모두 셋이에요.	There are three of us.
+유명하다	이 도시는 음식으로 유명해요.	This city is famous for its food.
+멀다	병원이 여기에서 멀어요?	Is the hospital far from here?
+옛날	옛날에 이 집에 할아버지가 살았어요.	Long ago a grandfather lived in this house.
+옛날	옛날 이야기를 좋아해요.	I like old stories.
+여덟	저는 여덟 시에 학교에 가요.	I go to school at eight.
+전쟁	전쟁 때문에 많은 사람이 집을 잃었어요.	Many people lost their homes because of the war.
+죽음	그 사람의 죽음은 정말 슬퍼요.	That person's death is really sad.
+뜨겁다	여름에는 해가 정말 뜨거워요.	In summer the sun is really hot.
+놀랍다	그 소식은 저에게 정말 놀라운 이야기였어요.	That news was a really surprising story for me.
+사용	이 컴퓨터의 사용 방법을 좀 알려 주세요.	Please tell me how to use this computer.
+태양	태양은 매일 아침 동쪽에서 떠요.	The sun rises in the east every morning.
+자유롭다	주말에는 시간이 자유로워서 정말 좋아요.	My time is free at the weekend, so it's really nice.
+자유롭다	회사를 그만두고 나서 생활이 더 자유로워졌어요.	After I quit the company, my life became freer.
+보호	아이들의 안전 보호는 부모의 중요한 일이에요.	Protecting children's safety is an important job for parents.
+갈다	방의 불을 새 것으로 갈았어요.	I replaced the light in the room with a new one.
+시도	그의 새로운 시도도 결국 잘 안됐어요.	His new attempt didn't work out in the end either.
+지불하다	저는 식당에서 카드로 돈을 지불했어요.	I paid at the restaurant by card.
+계산하다	오늘 저녁은 제가 계산할게요, 걱정하지 마세요.	I'll pay for dinner tonight, don't worry.
+맨날	제 동생은 맨날 컴퓨터 게임만 해요.	My younger sibling plays computer games every day.
+영리하다	우리 집 개는 아주 영리해서 말을 잘 들어요.	Our dog is very clever and listens well.
+기르다	저는 집에서 고양이 두 마리를 길러요.	I raise two cats at home.
+똥	길에 개 똥이 있어서 조심해서 걸었어요.	There was dog poop on the street, so I walked carefully.
+부담	시험이 너무 많아서 학생들에게 큰 부담이에요.	There are too many exams, so it's a big burden for students.
+공짜	이 식당에서는 물이 공짜예요, 돈을 안 내도 돼요.	Water is free at this restaurant, you don't have to pay.
+지붕	비가 많이 와서 집 지붕에서 물이 새요.	It rained a lot, so water is leaking from the roof.
+점수	이번 시험에서 저는 좋은 점수를 받았어요.	I got a good score on this exam.
+뵙다	다음 주에 선생님을 다시 뵙고 싶어요.	I would like to see the teacher again next week.
+뵙다	내일 선생님을 뵙고 질문을 드릴 거예요.	Tomorrow I will see the teacher and ask a question.
+구멍	제 옷에 큰 구멍이 생겨서 새 옷을 샀어요.	My clothes got a big hole, so I bought new clothes.
+구멍	벽에 작은 구멍이 있어서 바람이 들어와요.	There's a small hole in the wall, so the wind comes in.
+끼다	결혼식에서 그녀는 예쁜 반지를 꼈어요.	She wore a pretty ring at the wedding.
+끼다	문에 손가락이 끼어서 정말 아팠어요.	My finger got caught in the door and it really hurt.
+설마	설마 그 사람이 거짓말을 했을까요?	Surely that person didn't lie?
+설마	설마 벌써 그 일을 다 끝냈어요?	No way, have you already finished all that work?
+사항	회의 전에 중요한 사항을 다시 확인해 주세요.	Please check the important items again before the meeting.
+사항	다른 사항은 회사 사이트에서 볼 수 있어요.	You can see the other details on the company website.
+충격	그 뉴스를 듣고 모두 큰 충격을 받았어요.	Everyone was deeply shocked to hear that news.
+충격	사고 소식은 가족에게 정말 큰 충격이었어요.	The news of the accident was a huge shock to the family.
+천사	제 딸은 잘 때 정말 천사 같아요.	My daughter looks just like an angel when she sleeps.
+천사	그 간호사는 환자들에게 천사 같은 사람이에요.	That nurse is like an angel to the patients.
+유령	아이들은 그 오래된 집에 유령이 산다고 믿어요.	The children believe a ghost lives in that old house.
+유령	저는 어렸을 때 유령 이야기를 정말 무서워했어요.	When I was young I was really scared of ghost stories.
+여기다	저는 그를 진짜 친구로 여겨요.	I regard him as a true friend.
+철	철은 아주 단단하고 무거운 금속이에요.	Iron is a very hard, heavy metal.
+차갑다	바람이 너무 차가워서 모자를 썼어요.	The wind was so cold that I put on a hat.
+가능하다	내일까지 끝내는 것이 가능해요?	Is it possible to finish by tomorrow?
+가능하다	오늘 만나는 것은 가능해요.	Meeting today is possible.
+가볍다	이 가방은 아주 가벼워요.	This bag is very light.
+간	누가 전화하든지 간에 저는 안 받을 거예요.	No matter who calls, I won't answer.
+간	무엇을 먹든지 간에 천천히 드세요.	Whatever you eat, eat slowly.
+간단하다	간단한 방법이 있어요.	There's a simple way.
+강아지	우리 강아지는 공을 좋아해요.	Our puppy likes balls.
+강하다	오늘은 바람이 아주 강해요.	The wind is very strong today.
+걔	걔는 제 가장 친한 친구예요.	That kid is my best friend.
+결국	우리는 결국 버스를 놓쳤어요.	In the end we missed the bus.
+결국	결국 그 사람이 이겼어요.	In the end that person won.
+경찰서	경찰서는 은행 옆에 있어요.	The police station is next to the bank.
+고통	그 사람은 오랫동안 고통을 참았어요.	That person endured the pain for a long time.
+과거	과거는 바꿀 수 없어요.	You can't change the past.
+과거	할머니는 과거 이야기를 자주 하세요.	Grandma often talks about the past.
+과학	저는 학교에서 과학을 제일 좋아해요.	I like science best at school.
+관계	두 사람은 무슨 관계예요?	What is the relationship between the two of them?
+교수	우리 아버지는 대학교 교수예요.	My father is a university professor.
+교수	그 교수는 한국 역사를 가르쳐요.	That professor teaches Korean history.
+구하다	요즘 새 집을 구하고 있어요.	I'm looking for a new house these days.
+권	저는 한 달에 책을 두 권 읽어요.	I read two books a month.
+귀엽다	그 아기는 정말 귀여워요.	That baby is really cute.
+그날	그날은 비가 많이 왔어요.	It rained a lot that day.
+그룹	우리는 세 그룹으로 나눠서 일했어요.	We worked in three groups.
+그만하다	이제 게임은 그만하세요.	Stop playing games now.
+근데	저도 가고 싶어요. 근데 시간이 없어요.	I want to go too. But I don't have time.
+급하다	급한 일이 있어서 먼저 갈게요.	I have something urgent, so I'll go first.
+급하다	너무 급하게 먹지 마세요.	Don't eat too fast.
+기술	이 회사는 기술이 좋아요.	This company has good technology.
+기술	저는 요리 기술을 배우고 싶어요.	I want to learn cooking skills.
+기회	이번이 좋은 기회예요.	This is a good opportunity.
+기회	다음에 기회가 있으면 같이 가요.	If there's a chance next time, let's go together.
+꾸다	어젯밤에 이상한 꿈을 꿨어요.	I had a strange dream last night.
+끊다	저는 작년에 담배를 끊었어요.	I quit smoking last year.
+끔찍하다	어제 끔찍한 사고를 봤어요.	I saw a terrible accident yesterday.
+끔찍하다	이 커피는 맛이 끔찍해요.	This coffee tastes terrible.
+나머지	나머지는 내일 할게요.	I'll do the rest tomorrow.
+나머지	나머지 사람들은 밖에서 기다렸어요.	The rest of the people waited outside.
+남성	이 회사에는 남성이 많아요.	There are many men at this company.
+냄새	부엌에서 좋은 냄새가 나요.	There's a nice smell coming from the kitchen.
+널다	엄마가 밖에 옷을 널었어요.	Mom hung the clothes outside.
+넓다	이 방은 아주 넓어요.	This room is very spacious.
+넓다	이 길은 아주 넓어요.	This road is very wide.
+노랗다	저는 노란 꽃을 좋아해요.	I like yellow flowers.
+농담	그 사람은 농담을 잘해요.	That person tells good jokes.
+농담	농담이에요. 걱정하지 마세요.	I'm joking. Don't worry.
+눈물	영화를 보고 눈물이 났어요.	I cried watching the movie.
+눈물	그 이야기를 듣고 눈물이 났어요.	I teared up hearing that story.
+느낌	이 옷은 느낌이 좋아요.	These clothes feel nice.
+느낌	오늘은 좋은 일이 있을 것 같은 느낌이에요.	I have a feeling something good will happen today.
+늘다	요즘 한국어 실력이 많이 늘었어요.	My Korean has improved a lot lately.
+다리:bridge	이 다리는 아주 길어요.	This bridge is very long.
+닭	저녁에 닭을 먹었어요.	I ate chicken for dinner.
+당연히	당연히 도와 드릴게요.	Of course I'll help you.
+당장	지금 당장 병원에 가세요.	Go to the hospital right now.
+대답	아무리 전화해도 대답이 없어요.	No matter how often I call, there's no answer.
+던지다	아이가 공을 던졌어요.	The child threw the ball.
+데이터	이 데이터는 아주 중요해요.	This data is very important.
+돌다	아이들이 나무 주변을 돌고 있어요.	The children are going around the tree.
+돌다	오른쪽으로 돌면 은행이 있어요.	If you turn right, there's a bank.
+드레스	언니가 파란 드레스를 샀어요.	My older sister bought a blue dress.
+딱	이 신발은 저한테 딱 맞아요.	These shoes fit me just right.
+마찬가지	제 생각도 마찬가지예요.	My thinking is the same.
+마찬가지	오늘도 어제와 마찬가지로 추워요.	Today is cold, just like yesterday.
+마치	그 사람은 마치 가수처럼 노래해요.	That person sings just like a singer.
+마치	오늘은 마치 여름 같아요.	Today feels just like summer.
+막다	경찰이 길을 막았어요.	The police blocked the road.
+만약	만약 비가 오면 집에 있을 거예요.	If it rains, I'll stay home.
+맞추다	시계를 한국 시간에 맞췄어요.	I set my watch to Korean time.
+맞추다	친구와 시간을 맞춰서 만났어요.	I met my friend at a time that suited us both.
+모습	엄마의 웃는 모습이 예뻐요.	Mom looks pretty when she smiles.
+모습	그 사람의 모습이 많이 바뀌었어요.	That person's appearance has changed a lot.
+목표	제 목표는 한국어를 잘하는 거예요.	My goal is to be good at Korean.
+목표	올해 목표가 뭐예요?	What's your goal this year?
+무시하다	제 말을 무시하지 마세요.	Don't ignore what I say.
+무언가	저는 무언가를 잊어버린 것 같아요.	I think I've forgotten something.
+물리다	어제 개한테 손을 물렸어요.	I got bitten on the hand by a dog yesterday.
+미치다	너무 바빠서 미칠 것 같아요.	I'm so busy I think I'll go crazy.
+바닥	바닥이 아주 깨끗해요.	The floor is very clean.
+바보	저는 정말 바보 같았어요.	I was really like a fool.
+바지	새 바지를 샀어요.	I bought new trousers.
+받아들이다	그 사람은 제 사과를 받아들였어요.	That person accepted my apology.
+벗다	집에 들어갈 때 신발을 벗으세요.	Take off your shoes when you go into the house.
+변화	날씨에 큰 변화가 있었어요.	There was a big change in the weather.
+변화	우리 회사에 변화가 필요해요.	Our company needs change.
+복잡하다	이 길은 너무 복잡해요.	This road is too complicated.
+복잡하다	지하철이 아침에 아주 복잡해요.	The subway is very crowded in the morning.
+분명	분명 집에 있을 거예요.	They'll surely be at home.
+분명	분명 어제 여기에 두었어요.	I definitely left it here yesterday.
+분명히	저는 분명히 문을 닫았어요.	I definitely closed the door.
+불가능하다	오늘 끝내는 것은 불가능해요.	Finishing today is impossible.
+비밀	이건 우리의 비밀이에요.	This is our secret.
+비슷하다	저와 언니는 얼굴이 비슷해요.	My older sister and I have similar faces.
+빌다	엄마는 가족의 건강을 빌었어요.	Mom prayed for the family's health.
+빌다	시험에 붙기를 빌어요.	I hope you pass the exam.
+빠지다	아이가 물에 빠졌어요.	The child fell into the water.
+사라지다	제 가방이 갑자기 사라졌어요.	My bag suddenly disappeared.
+상처	손에 작은 상처가 있어요.	I have a small cut on my hand.
+상처	그 말 때문에 마음에 상처를 받았어요.	I was hurt by those words.
+새로	새로 산 옷을 입었어요.	I wore the clothes I bought recently.
+색깔	어떤 색깔을 좋아해요?	What colour do you like?
+샌드위치	점심에 샌드위치를 먹었어요.	I ate a sandwich for lunch.
+생선	저는 고기보다 생선을 좋아해요.	I like fish more than meat.
+서두르다	기차가 곧 떠나요. 빨리 서두르세요!	The train is leaving soon. Hurry up!
+선택	이건 좋은 선택이에요.	This is a good choice.
+성공하다	그 사람은 사업에 성공했어요.	That person succeeded in business.
+세계	세계에서 가장 높은 산은 어디예요?	Where is the highest mountain in the world?
+속다	저는 그 사람 말에 속았어요.	I was fooled by what that person said.
+수정	이 부분은 수정이 필요해요.	This part needs revision.
+숨다	고양이가 침대 밑에 숨었어요.	The cat hid under the bed.
+스포츠	저는 스포츠를 아주 좋아해요.	I really like sports.
+슬프다	그 영화는 너무 슬퍼요.	That movie is so sad.
+식	이런 식으로 하면 돼요.	You can do it this way.
+식	그런 식으로 말하지 마세요.	Don't talk like that.
+신다	밖에 나갈 때 편한 신발을 신으세요.	Wear comfortable shoes when you go out.
+신다	아이가 혼자 신발을 신었어요.	The child put on his shoes by himself.
+신호	빨간 신호에서는 멈추세요.	Stop at a red light.
+심지어	그 사람은 심지어 제 이름도 몰라요.	That person doesn't even know my name.
+심지어	심지어 주말에도 일해요.	I even work at weekends.
+심하다	어제 감기가 심했어요.	My cold was bad yesterday.
+심하다	그 사람은 말을 너무 심하게 해요.	That person speaks too harshly.
+아무리	아무리 바빠도 밥은 드세요.	No matter how busy you are, eat your meals.
+알려지다	그 이야기는 많이 알려졌어요.	That story is widely known.
+알려지다	이 식당은 맛있기로 알려져 있어요.	This restaurant is known for being tasty.
+알리다	선생님이 시험 날짜를 알렸어요.	The teacher announced the exam date.
+약속	저는 약속을 꼭 지켜요.	I always keep my promises.
+양	음식 양이 너무 많아요.	The amount of food is too much.
+어떡하다	지갑을 잃어버렸어요. 어떡해요?	I lost my wallet. What should I do?
+어떡하다	버스를 놓치면 어떡해요?	What if we miss the bus?
+어쩌다	비가 많이 오면 어쩔 거예요?	What will you do if it rains a lot?
+여성	이 회사에는 여성 직원이 많아요.	There are many female employees at this company.
+연구	그 교수는 한국어 연구를 해요.	That professor does research on Korean.
+연락하다	집에 도착하면 저한테 연락하세요.	Contact me when you get home.
+연습하다	저는 매일 피아노를 연습해요.	I practise the piano every day.
+예전	예전에는 여기에 공원이 있었어요.	There used to be a park here.
+예전	예전처럼 자주 만나요.	Let's meet often like before.
+완전히	그 일은 완전히 잊어버렸어요.	I completely forgot about that.
+외롭다	혼자 살아서 가끔 외로워요.	I live alone, so I'm sometimes lonely.
+이론	이 이론은 이해하기 어려워요.	This theory is hard to understand.
+이론	이론보다 연습이 중요해요.	Practice is more important than theory.
+이루다	그 사람은 결국 꿈을 이루었어요.	In the end that person achieved their dream.
+이루다	목표를 이루려면 열심히 해야 해요.	To achieve your goal you have to work hard.
+이리	강아지가 이리 오고 있어요.	The puppy is coming this way.
+이쪽	화장실은 이쪽에 있어요.	The bathroom is this way.
+인간	인간은 혼자 살 수 없어요.	Humans can't live alone.
+인간	개는 인간의 좋은 친구예요.	Dogs are a good friend to humans.
+인기	이 가수는 요즘 인기가 많아요.	This singer is very popular these days.
+인사하다	아이가 선생님께 인사했어요.	The child greeted the teacher.
+인터넷	인터넷으로 표를 샀어요.	I bought the ticket on the internet.
+잊어버리다	친구 생일을 잊어버렸어요.	I forgot my friend's birthday.
+자식	부모는 자식을 사랑해요.	Parents love their children.
+잘못	제가 길을 잘못 들었어요.	I took the wrong way.
+잡지	저는 기차에서 잡지를 읽어요.	I read magazines on the train.
+재미	이 게임은 정말 재미가 있어요.	This game is really fun.
+저쪽	은행은 저쪽에 있어요.	The bank is over there.
+적어도	적어도 하루에 물을 두 잔 마시세요.	Drink at least two glasses of water a day.
+적어도	여기까지 적어도 한 시간 걸려요.	It takes at least an hour to get here.
+정확히	정확히 몇 시에 만나요?	What time exactly are we meeting?
+제대로	문을 제대로 닫으세요.	Close the door properly.
+제대로	어제는 잠을 제대로 못 잤어요.	I couldn't sleep properly last night.
+조용하다	도서관은 아주 조용해요.	The library is very quiet.
+종류	이 가게에는 여러 종류의 빵이 있어요.	This shop has many kinds of bread.
+지역	이 지역은 겨울에 아주 추워요.	This area is very cold in winter.
+지우다	사진을 지우지 마세요.	Don't delete the photo.
+지하	식당은 지하 일 층에 있어요.	The restaurant is on the first basement floor.
+착하다	우리 형은 아주 착해요.	My older brother is very kind.
+충분히	시간은 충분히 있어요.	There's plenty of time.
+쿠키	엄마가 쿠키를 만들었어요.	Mom made cookies.
+쿠키	쿠키 하나 더 먹어도 돼요?	May I have one more cookie?
+키우다	저는 집에서 고양이를 키워요.	I keep a cat at home.
+통하다	우리는 말이 잘 통해요.	We get along well when we talk.
+통하다	이 길은 학교로 통해요.	This road leads to the school.
+특별하다	오늘은 특별한 날이에요.	Today is a special day.
+파이	사과 파이가 정말 맛있어요.	The apple pie is really delicious.
+파일	파일을 이메일로 보냈어요.	I sent the file by email.
+팔	팔이 너무 아파요.	My arm hurts a lot.
+편	저는 우리 팀 편이에요.	I'm on our team's side.
+피자	주말에 피자를 시켰어요.	I ordered pizza at the weekend.
+하얗다	눈이 와서 길이 하얘요.	The road is white because it snowed.
+해변	여름에 해변에 가고 싶어요.	I want to go to the beach in summer.
+해변	해변에서 사진을 많이 찍었어요.	I took a lot of photos at the beach.
+행동하다	아이들이 조용히 행동했어요.	The children behaved quietly.
+확실하다	그 사람이 오는 것은 확실해요.	It's certain that person is coming.
+확실히	이 방법이 확실히 더 좋아요.	This way is definitely better.
+확실히	내일은 확실히 비가 와요.	It will definitely rain tomorrow.
+흐르다	강이 천천히 흘러요.	The river flows slowly.
+흐르다	시간이 빨리 흘러요.	Time flows quickly.
+희망	아직 희망이 있어요.	There is still hope.
+놈	나쁜 놈은 결국 경찰에게 잡혔어요.	The bad guy was caught by the police in the end.
+멋있다	우리 형은 새 옷을 입어서 정말 멋있어요.	My older brother looks really cool in his new clothes.
+모래	아이들이 바다에서 모래를 가지고 놀아요.	The children are playing with sand at the sea.
+여우	우리는 어제 숲에서 빨간 여우를 봤어요.	Yesterday we saw a red fox in the forest.
+여우	여우는 아주 똑똑하고 빠른 동물이에요.	The fox is a very clever and fast animal.

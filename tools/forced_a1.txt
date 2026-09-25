@@ -1,0 +1,20 @@
+# A1 core list: everyday words forced into A1. The closed sets (days, months,
+# numerals, pronouns, demonstratives, question words, time words, colours,
+# particles, the copula, greetings and set phrases) are in
+# engine/tools/packbuilder/langs/ko.py. Verbs and adjectives are listed in
+# their dictionary (-다) form; 하다 verbs by their Wiktionary headword.
+[NOUN]
+사람 집 학교 학생 선생님 친구 가족 어머니 아버지 엄마 아빠 형 누나 오빠 언니 동생 아이 남자 여자
+이름 물 밥 음식 커피 우유 빵 사과 고기 책 가방 옷 신발 돈 전화 핸드폰 컴퓨터
+회사 일 병원 가게 식당 화장실 방 문 버스 지하철 비행기 기차 길 나라
+한국어 영어 말 문제 날씨 비 눈 산 바다 꽃 개 고양이 머리 손 발 얼굴 배
+이제 생일 선물 영화 음악 노래 운동 여행 공부 사진 차 생각 의사 부모님 춤 원 층
+[VERB]
+가다 오다 먹다 마시다 자다 일어나다 보다 듣다 읽다 쓰다 말하다 하다 있다 공부하다 일하다
+사다 팔다 주다 받다 만나다 알다 모르다 좋아하다 배우다 가르치다 앉다 서다 걷다 타다 내리다 기다리다
+찾다 열다 닫다 입다 시작하다 살다 사랑하다 놀다 들어가다 나가다 쉬다 되다 만들다
+[ADJ]
+없다 좋다 나쁘다 크다 작다 많다 싸다 비싸다 덥다 춥다 맛있다 재미있다 예쁘다 바쁘다 아프다 피곤하다
+높다 길다 짧다 멀다 가깝다 빠르다 쉽다 어렵다 같다 다르다 괜찮다 기쁘다 아니다 싫다
+[ADV]
+아주 정말 너무 잘 많이 조금 좀 빨리 천천히 같이 다시 또 자주 항상 벌써 아직 그냥 다 모두 안 못

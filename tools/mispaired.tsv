@@ -1,0 +1,5 @@
+# Tatoeba pairs dropped at every level: the English translates another sentence, a misspelt word changes the meaning (막을까 for 먹을까), or the Korean is ungrammatical. Korean<TAB>English. The non-standard spelling class (너가, -어죠, 할께…) is also dropped by rule (NONSTANDARD_KO in langs/ko.py).
+톰의 한쪽 눈 밑에 멍이 들었습니다.	Are you waiting for me to do something?
+저녁을 5 시에 막을까 해요.	I'm thinking of having dinner at 5.
+너가 모두는 이것을 읽어야 해요.	All of you have to read it.
+너 언제 론돈에서 돌아 왔어죠?	When did you return from London?
