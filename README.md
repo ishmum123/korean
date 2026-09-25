@@ -212,6 +212,8 @@ The builder's Korean module handles what the shared pipeline cannot guess.
 | Sentence translations | Tatoeba `eng_sentences.tsv` + `kor-eng_links.tsv` | CC-BY 2.0 FR | English translations |
 | Generated sentences | written for this pack, `tools/generated_sentences.tsv` | CC-BY-SA 4.0 | sentences for words Tatoeba covers with fewer than 2 usable sentences, marked `"src": "gen"` |
 
+Licence: code MIT, pack data CC BY-SA 4.0, see LICENSE.
+
 Tatoeba has no permissively licensed Korean audio, so the pack links none
 and relies on TTS. No licence is non-commercial.
 
