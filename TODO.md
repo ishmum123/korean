@@ -124,3 +124,7 @@ Residuals from the v1 QA rounds. The rules already in place are in
   sentence and appear in at least two, and `check_pack` reports every word
   with at least two.
 - New generated sentences go at the end of `tools/generated_sentences.tsv`.
+
+## Live check 2026-09-25 (14/14 PASS)
+- Minor mislink: 거는 in "…않다는 거는 저도…" links 걸다 "to hang"; should be 것 + 는 (same class as bare 거 → 것). Fix in the next rebuild.
+- 39/2000 words (mostly A1 particles) have no example showing the headword or an alt; 38 more miss on one of two examples.
