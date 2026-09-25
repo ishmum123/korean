@@ -119,5 +119,33 @@
   "fontFamily": "\"Apple SD Gothic Neo\", \"Noto Sans KR\", \"Malgun Gothic\", sans-serif",
   "fonts": [
     "Noto Sans KR:wght@400;700"
-  ]
+  ],
+  "script": {
+    "stages": [
+      {
+        "key": "hangul",
+        "label": "한글"
+      }
+    ],
+    "setsPerSession": 2,
+    "mastered": 3,
+    "tts": true,
+    "learnKinds": [
+      "symSound",
+      "compose"
+    ],
+    "reviewKinds": [
+      "symSound",
+      "soundSym",
+      "compose",
+      "wordRead"
+    ],
+    "testKinds": {
+      "symSound": 30,
+      "soundSym": 20,
+      "compose": 20,
+      "wordRead": 20,
+      "symType": 10
+    }
+  }
 }

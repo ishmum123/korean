@@ -9,6 +9,10 @@ Read tab adds 60 short reading passages with comprehension questions (see
 
 **Live:** https://ishmum123.github.io/korean/
 
+**Script primer.** A "한글" stage now runs before A1 and teaches Hangul (47
+units) with symbol-to-sound, recognition and word-reading items. It's
+skippable with "I can read it" and reversible later from Progress.
+
 This repo holds the Korean data pack and the Korean data files its build
 reads. It includes [`vocab-engine`](https://github.com/ishmum123/vocab-engine)
 as a git submodule at `engine/`. The engine holds the shared UI, the drill
