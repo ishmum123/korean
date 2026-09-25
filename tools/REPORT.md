@@ -234,4 +234,5 @@ All checks passed.
 | generated sentences | 1,692 of 3,044 (A1 312, A2 543, B1 837) |
 | determinism | two builds, the first after a fresh retag, byte-identical |
 | gap drill | 57 sentences without a candidate, 25 words never blankable |
+| 2026-09-25 engine bump | 072795d (voice-init fix, no-voice notice timing, keep-all line breaking, word ceiling). 0 words moved to B1 (Korean has no matches on the shared ceiling term list). words/sentences/passages byte-identical to the previous build. No rank, id, level or gloss changed. |
 <!-- manual:end -->
