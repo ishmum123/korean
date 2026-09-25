@@ -4,8 +4,21 @@ Residuals from the v1 QA rounds. The rules already in place are in
 `engine/tools/packbuilder/langs/ko.py` and summarised in the README.
 
 ## Content
-- **Reading passages: to be authored.** The pack ships no `pack/passages.json`
-  yet, so the Read tab stays empty.
+- **Reading passages: shipped (2026-09-25).** 60 hand-written passages
+  (`tools/passages_src.json`, report in `tools/REPORT_passages.md`), rebuilt
+  and jsonified with engine `ff88f44`. Re-QA found one bad true/false item
+  (p0043 q3, sourced from world knowledge instead of the passage text); fixed
+  in `.cache/src/b1.py` and regenerated via `.cache/src/assemble.py`. The 15
+  display glosses (`tools/gloss_display.json`, incl. 안 "inside") are in
+  `pack/words.json`; `pack/sentences.js` was regenerated so it is no longer
+  stale. Open: the passages were written by a model and want a native
+  speaker's read, B1 first. Authoring drafts live in the gitignored
+  `.cache/src/` (a1/a2/b1.py, assemble.py, qa.py, spans.py).
+- **Passage residuals (re-QA 2026-09-25, accepted as-is).** 부탁드립니다 links
+  as one whole eojeol rather than 부탁 + 드리다 + -ㅂ니다; p0030 q2's wrong
+  options include one at a level above the passage's own; p0035's sixth
+  sentence has an awkward English phrasing. None block coverage or linking
+  and none were fixed this round.
 - 1,692 of 3,044 sentences are machine-written (`"src": "gen"`): 312 at A1,
   543 at A2 and 837 at B1. A native speaker should review them, B1 first.
 - **Suicide and self-harm filter is Korean-only.** `langs/ko.py` drops these

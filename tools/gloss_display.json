@@ -1,0 +1,19 @@
+{
+ "_note": "Display-only glosses, 'lemma|pos' (shipped words.json lemma and pos) -> en. Applied at build after ranking, example selection and linking (core/words.apply_gloss_display); senses here never change links or examples. Use gloss_overrides.json for senses that should steer linking.",
+ "_coupling": "A display entry replaces the whole en shipped for its word; every text below keeps the current shipped/override gloss as its first sense. 안|adv covers 안 'inside' (pack has only the adverb; passages link 가방 안에 to it).",
+ "안|adv": "not (안 가요); inside (가방 안에)",
+ "그렇다|adj": "to be so, to be like that (그럼: then, in that case; 그렇지만: but)",
+ "지나다|verb": "to pass (지난: last, previous)",
+ "맞다|verb": "to be right, to be correct; to fit; to be hit by (비를 맞다: to be caught in the rain)",
+ "차리다|verb": "to prepare; to set up, to open (a shop)",
+ "나다|verb": "to come out, to happen, to break out (피가 나다: to bleed; 생각이 나다: to come to mind; 화가 나다: to get angry; 냄새가 나다: to smell)",
+ "장|noun": "sheet, slice (counter for paper, tickets, bread)",
+ "보호|noun": "protection (보호 센터: animal shelter)",
+ "열리다|verb": "to be opened, to open; to be held (market, event)",
+ "떨어지다|verb": "to fall, to drop; to run out; to fail (an exam, interview); to be away from",
+ "따르다|verb": "to follow; to pour (따라 하다: to copy; -에 따르면: according to)",
+ "앞|noun": "front, fore (앞으로: from now on)",
+ "주다|verb": "to give; to do for someone (-아 주다); humble form 드리다",
+ "먹다|verb": "to eat, have, to drink; honorific form 드시다",
+ "상처|noun": "wound, hurt (상처를 받다: to be hurt)"
+}
