@@ -132,6 +132,10 @@ addition, applied at build, so their English also shows the sense or form a
 passage uses (e.g. 안 "not; inside", 나다 "to come out... (화가 나다: to get
 angry)").
 
+On Today, a passage's spaced re-read (after 7 days) becomes a listening
+pass when the device can play every sentence, with text hidden and some
+questions audio-only.
+
 ## Layout
 
 ```
