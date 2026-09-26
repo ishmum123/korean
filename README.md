@@ -237,7 +237,14 @@ The builder's Korean module handles what the shared pipeline cannot guess.
   strictFromLevel: null}`). "Type the word" drills the written Hangul form.
   Case does not apply to Hangul, and there are no combining marks for
   lenient accents to fold, so lenient is a no-op and stays on at every
-  level (`strictFromLevel: null`).
+  level (`strictFromLevel: null`). Engine `93f77a2` adds affix alternates:
+  typing a particle accepts the bare form without its leading hyphen
+  (-이다 → 이다), the slash form and each side alone for a slash alt
+  (-이/가 → 이/가, 이, 가), and both the parens-dropped and group-dropped
+  forms for a parenthetical alt (-(으)로 → 으로, 로). The same engine adds a
+  collision guard over every lenient fold, rejecting a folded match that is
+  exactly another pack word; Korean currently has no colliding pair, so the
+  guard is a no-op here too.
 
 ## Sources and licences
 
