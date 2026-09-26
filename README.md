@@ -233,8 +233,11 @@ The builder's Korean module handles what the shared pipeline cannot guess.
 - **Font.** `pack.json` sets `fontFamily` to "Apple SD Gothic Neo", "Noto
   Sans KR", "Malgun Gothic", sans-serif and `fonts` to Noto Sans KR, which the
   engine applies to every element marked `lang="ko"`.
-- **Typing is off** (`typing: null`). The trainer does not assume a Hangul
-  keyboard, so drills are recognition and choice only.
+- **Typing is on** (`typing: {caseSensitive: false, accents: lenient,
+  strictFromLevel: null}`). "Type the word" drills the written Hangul form.
+  Case does not apply to Hangul, and there are no combining marks for
+  lenient accents to fold, so lenient is a no-op and stays on at every
+  level (`strictFromLevel: null`).
 
 ## Sources and licences
 

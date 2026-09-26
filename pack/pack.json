@@ -110,7 +110,11 @@
     "w2005",
     "w2016"
   ],
-  "typing": null,
+  "typing": {
+    "caseSensitive": false,
+    "accents": "lenient",
+    "strictFromLevel": null
+  },
   "showPron": false,
   "hasLessons": false,
   "spaced": true,
